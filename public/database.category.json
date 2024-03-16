@@ -1,0 +1,66 @@
+[
+    {
+        "_id": "65d852ec2f1bfc3c4ffc6675",
+        "name": "Smartphone",
+        "icon": "https://elma2024.000webhostapp.com/smartphone-call.png"
+    },
+    {
+        "_id": "65d853192f1bfc3c4ffc6676",
+        "name": "Laptops & Notebooks",
+        "icon": "https://elma2024.000webhostapp.com/laptop.png"
+    },
+
+    {
+        "_id": "65d85595f18239ff9bcbcd2b",
+        "name": "Desktop Computer",
+
+        "icon": "https://elma2024.000webhostapp.com/pc.png"
+    },
+    {
+        "_id": "65d855a2f18239ff9bcbcd2d",
+        "name": "Headphones",
+        "icon": "https://elma2024.000webhostapp.com/headphone.png"
+    },
+
+    {
+        "_id": "65d85626f18239ff9bcbcd2f",
+        "name": "Cameras",
+        "icon": "https://elma2024.000webhostapp.com/camera.png"
+    },
+
+    {
+        "_id": "65d85632f18239ff9bcbcd31",
+        "name": "Television",
+        "icon": "https://elma2024.000webhostapp.com/computer.png"
+    },
+
+    {
+        "_id": "65d8563af18239ff9bcbcd33",
+        "name": "Smartwatches",
+        "icon": "https://elma2024.000webhostapp.com/smartwatch.png"
+    },
+
+    {
+        "_id": "65d85643f18239ff9bcbcd35",
+        "name": "Chargers",
+        "icon": "https://elma2024.000webhostapp.com/charger.png"
+    },
+
+    {
+        "_id": "65d8564cf18239ff9bcbcd37",
+        "name": "Power Banks",
+        "icon": "https://elma2024.000webhostapp.com/power-bank.png"
+    },
+
+    {
+        "_id": "65d85660f18239ff9bcbcd39",
+        "name": "Printers and Scanners",
+        "icon": "https://elma2024.000webhostapp.com/printer.png"
+    },
+
+    {
+        "_id": "65d8566ef18239ff9bcbcd3b",
+        "name": "Audio Devices",
+        "icon": "https://elma2024.000webhostapp.com/headphone.png"
+    }
+]

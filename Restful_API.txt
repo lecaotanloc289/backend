@@ -1,0 +1,46 @@
+<!-- Find all -->
+    const product_list = await Product.find()
+
+<!-- Find by id-->
+    const product = await Product.find(req.body.id)
+
+<!-- Find and select some attribute | not all -->
+    const product = await Product.find().select('name image category')
+
+<!-- Find and select without id -->
+    const product = await Product.find().select('-_id')
+
+<!-- Find and using foreign key select information -->
+    <!-- Select category detail for product -->
+    const product = await Product.findById(req.params.id).populate('category'); 
+
+// If get some attribute => find().select('attribute1 attribute2')
+// Select without id => find().select(-_id) (minus _id)
+// Select what you want for your command
+
+Hashing password & decrypt password
+    using: bcryptjs - npm i bcryptjs
+    Hashing: che giấu mật khẩu
+        password_hash: bcrypt.hashSync(req.body.password_hash, 10),
+
+    Decrypt: giải mã khi đăng nhập
+        if(user && bcrypt.compareSync(
+            req.body.password_hash,
+            user.password_hash
+        ))
+    => so sánh mật khẩu của người dùng khi nhập vào hashing và mật 
+    khẩu đã hashing lưu trên db
+
+Token - Json Web Token - jwt
+    Server sẽ response lại 1 token kiểu json khi người dùng đăng nhập
+        - npm i jsonwebtoken
+        - trong token sẽ chứa thông tin (có thể là id) 
+            và key secret(khóa bí mật) - giống như mật khẩu của token
+        - có thể thêm thời gian sử dụng cho token 1d 1w 1m ...
+        - User -> request thành công -> Server gửi token -> User ->
+        Nhận được thông báo -> sử dụng token -> Truy cập API (nếu còn hạn sử dụng)
+
+    Cách bảo vệ APIs: chỉ khi nào login mới được sử dụng API
+        - middleware kiểm tra mọi thứ trc khi đến server -> check user authentication
+        - npm i express-jwt
+        - khi user send 1 secret key -> nếu đúng -> cho truy cập APIs - ngược lại không

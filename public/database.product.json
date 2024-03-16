@@ -1,0 +1,2014 @@
+{
+    "smartphone": [
+        {
+            "_id": { "$oid": "65db0b69f08a93058c07f049" },
+            "name": "Điện thoại Samsung Galaxy Z Fold 4",
+            "description": "Màn hình: Dynamic AMOLED 2X Chính 7.6\" & Phụ 6.2\"\n- Camera sau: 12MP, 10MP, 50MP\n- Camera trước: 10MP, 4MP\n- CPU: Qualcomm Snapdragon 8+ Gen 1\n- Bộ nhớ: 256GB\n- RAM: 12GB\n- Hệ điều hành: Android",
+            "price": 38990000,
+            "brand": "SAMSUNG",
+            "rating": 4.5,
+            "numberReviews": 0,
+            "image": "https://elma2024.000webhostapp.com/images/products/z5191075341382_58f88d3072d20129b9c95fa68688d7b9.jpg",
+            "images": [
+                "https://elma2024.000webhostapp.com/images/products/z5191075331686_70de14d5e2c26f34b0a40bdbd3520b69.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191075349203_6baf1a0033554d49366de3599cd5ca08.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191075349204_3a717f0629c8a7de9b2b8572c24ce733.jpg"
+            ],
+            "quantity": 100,
+            "category": { "$oid": "65d852ec2f1bfc3c4ffc6675" },
+            "isBestSeller": false
+        },
+        {
+            "_id": { "$oid": "65db0b69f08a93058c07f04a" },
+            "name": "Điện thoại Samsung Galaxy S23 Ultra",
+            "description": "- Màn hình: 6.8\" Dynamic AMOLED 2X\n- Camera sau: 200MP, 12 MP, 2 x 10MP\n- Camera trước: 12 MP\n- CPU: Snapdragon 8 Gen 2\n- Bộ nhớ: 256GB\n- RAM: 8GB\n- Hệ điều hành: Android",
+            "price": 30490000,
+            "brand": "SAMSUNG",
+            "rating": 4,
+            "numberReviews": 0,
+            "image": "https://elma2024.000webhostapp.com/images/products/z5191075322974_8d66fc44ae21760b7332f28202ba6ce6.jpg",
+            "images": [
+                "https://elma2024.000webhostapp.com/images/products/z5191075322975_26e957d4831dcf3061db7713d009281a.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191075323081_2025c5a7b095a0fe4aed257d6fc15aa0.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191075323082_6a8678166a0a6a11b316afdf19fcc900.jpg"
+            ],
+            "quantity": 100,
+            "category": { "$oid": "65d852ec2f1bfc3c4ffc6675" },
+            "isBestSeller": false
+        },
+        {
+            "_id": { "$oid": "65db0b69f08a93058c07f04b" },
+            "name": "iPhone 15 Pro Max",
+            "description": "- Màn hình: OLED Super Retina XDR\n- Camera sau: 48MP, 12MP\n- Camera trước: 12MP\n- CPU: Apple A17 Bionic\n- Bộ nhớ: 256GB\n- Hệ điều hành: iOS",
+            "price": 31490000,
+            "brand": "APPLE",
+            "rating": 4.6,
+            "numberReviews": 0,
+            "image": "https://elma2024.000webhostapp.com/images/products/z5191075232591_6aa6d3616559c6bc639ae1f5664a5c84.jpg",
+            "images": [
+                "https://elma2024.000webhostapp.com/images/products/z5191075237896_a4204861c1538809016ecd9588605566.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191075237897_5e39629a50b47b2f3de27441918c8ff3.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191075245342_3d0c621f46c4a0652fc2c141ed59a0b0.jpg"
+            ],
+            "quantity": 100,
+            "category": { "$oid": "65d852ec2f1bfc3c4ffc6675" },
+            "isBestSeller": false
+        },
+        {
+            "_id": { "$oid": "65db0b69f08a93058c07f04c" },
+            "name": "Điện thoại Samsung Galaxy Z Fold 5",
+            "description": "- Màn hình: - Chính 7.6\" & Phụ 6.2\"\n- Dynamic AMOLED 2X\n- Camera sau: 50MP, 12MP, 10MP\n- Camera trước: 10MP, 4MP\n- CPU: Snapdragon 8 Gen 2\n- Bộ nhớ: 256GB\n- RAM: 12GB\n- Hệ điều hành: Android",
+            "price": 40990000,
+            "brand": "SAMSUNG",
+            "rating": 4.1,
+            "numberReviews": 0,
+            "image": "https://elma2024.000webhostapp.com/images/products/z5191075254781_d620cb21e63fdf44eec9c703003a9b66.jpg",
+            "images": [
+                "https://elma2024.000webhostapp.com/images/products/z5191075262176_0c66007aa16ab2c3a777293000945f8b.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191075263327_58ca382ae093eb8a753b743a7afc9362.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191075276436_654b1b7a942b792bd34ccfa5d285e82a.jpg"
+            ],
+            "quantity": 100,
+            "category": { "$oid": "65d852ec2f1bfc3c4ffc6675" },
+            "isBestSeller": false
+        },
+        {
+            "_id": { "$oid": "65db0b69f08a93058c07f04d" },
+            "name": "iPhone 15 Pro",
+            "description": "- Màn hình: OLED Super Retina XDR\n- Camera sau: 48MP, 12MP\n- Camera trước: 12MP\n- CPU: Apple A17 Bionic\n- Bộ nhớ: 128GB\n- Hệ điều hành: iOS",
+            "price": 28990000,
+            "brand": "APPLE",
+            "rating": 4.5,
+            "numberReviews": 0,
+            "image": "https://elma2024.000webhostapp.com/images/products/z5191075288262_4e852034aa0f49e9ba70817d86323e6d.jpg",
+            "images": [
+                "https://elma2024.000webhostapp.com/images/products/z5191075288263_091076f9177cb683760b21e6eafc4188.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191075291546_aeec21fd80767d3dd2241d04138a05f1.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191075313308_1751309de665042f00a8827a3e8586f4.jpg"
+            ],
+            "quantity": 100,
+            "category": { "$oid": "65d852ec2f1bfc3c4ffc6675" },
+            "isBestSeller": false
+        },
+        {
+            "_id": { "$oid": "65db0b69f08a93058c07f04e" },
+            "name": "iPhone 15 Plus",
+            "description": "- Màn hình: OLED Super Retina XDR\n- Camera sau: 48MP, 12MP\n- Camera trước: 12MP\n- CPU: Apple A16 Bionic\n- Bộ nhớ: 128GB\n- Hệ điều hành: iOS",
+            "price": 22790000,
+            "brand": "APPLE",
+            "rating": 4.2,
+            "numberReviews": 0,
+            "image": "https://elma2024.000webhostapp.com/images/products/z5191078012094_6152c6b2e9354bcf7ad9b414cfa841eb.jpg",
+            "images": [
+                "https://elma2024.000webhostapp.com/images/products/z5191078013110_ec4547f88452cfa7d270346f44c7388b.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191078023260_373b53c2f9bf732a9eaed689a093a4b2.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191078023261_be7a150950599156cff1aee8c9a3f307.jpg"
+            ],
+            "quantity": 100,
+            "category": { "$oid": "65d852ec2f1bfc3c4ffc6675" },
+            "isBestSeller": false
+        },
+        {
+            "_id": { "$oid": "65db0b69f08a93058c07f04f" },
+            "name": "Điện thoại Samsung Galaxy Z Flip 5",
+            "description": "- Màn hình: - Chính 6.7\" & Phụ 3.4\"\n- Chính: Dynamic AMOLED, Phụ: Super AMOLED\n- Camera sau: 2 x 12MP\n- Camera trước: 10MP\n- CPU: Snapdragon 8 Gen 2\n- Bộ nhớ: 512GB\n- RAM: 8GB\n- Hệ điều hành: Android",
+            "price": 25990000,
+            "brand": "SAMSUNG",
+            "rating": 4.3,
+            "numberReviews": 0,
+            "image": "https://elma2024.000webhostapp.com/images/products/z5191376459033_83244e7d9dc3f67d78801510431ffa6d.jpg",
+            "images": [
+                "https://elma2024.000webhostapp.com/images/products/z5191376486353_de37e2d34218fa196fa4ac6b521963cf.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191376486352_fd1a9612a5f3bd4d594581db7f5738c7.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191376476289_e581df77a04b7a496eb19118f6d64a12.jpg"
+            ],
+            "quantity": 100,
+            "category": { "$oid": "65d852ec2f1bfc3c4ffc6675" },
+            "isBestSeller": false
+        },
+        {
+            "_id": { "$oid": "65db0b69f08a93058c07f050" },
+            "name": "Điện thoại Samsung Galaxy S23 Plus",
+            "description": "- Màn hình: 6.6\" Dynamic AMOLED 2X\n- Camera sau: 12MP, 10MP, 50MP\n- Camera trước: 12MP\n- CPU: Snapdragon 8 Gen 2\n- Bộ nhớ: 512GB\n- RAM: 8GB\n- Hệ điều hành: Android",
+            "price": 25790000,
+            "brand": "SAMSUNG",
+            "rating": 4.4,
+            "numberReviews": 0,
+            "image": "https://elma2024.000webhostapp.com/images/products/z5191376434681_696bbdf1e84aeccf02cd2c8a0a8697b4.jpg",
+            "images": [
+                "https://elma2024.000webhostapp.com/images/products/z5191376451003_e0a4cb2eac061a766d8e259ee8c7c0ec.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191376439970_d3cdbf9a4ad0358e9b634bc229202524.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191376439969_ad7d6469d9102e71abc5db2761fc781f.jpg"
+            ],
+            "quantity": 100,
+            "category": { "$oid": "65d852ec2f1bfc3c4ffc6675" },
+            "isBestSeller": false
+        },
+        {
+            "_id": { "$oid": "65db0b69f08a93058c07f051" },
+            "name": "Điện thoại Samsung Galaxy Z Flip4",
+            "description": "- Màn hình: Chính: 6.7\" Dynamic AMOLED 2X, Phụ: 1.9\" Super AMOLED\n- Camera sau: 2x 12MP\n- Camera trước: 10MP\n- CPU: Qualcomm Snapdragon 8+ Gen 1\n- Bộ nhớ: 256GB\n- RAM: 8GB\n- Hệ điều hành: Android",
+            "price": 25790000,
+            "brand": "SAMSUNG",
+            "rating": 4.1,
+            "numberReviews": 0,
+            "image": "https://elma2024.000webhostapp.com/images/products/z5191376406292_24c7dc81c2a38c6ec589687bfd538fde.jpg",
+            "images": [
+                "https://elma2024.000webhostapp.com/images/products/z5191376420166_37dad787073b4164406f4e83f9d29957.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191376405482_c08ef92f8057c692f50512a00dca173b.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191376386161_d48b596c407fdc98271a4faf6054fe65.jpg"
+            ],
+            "quantity": 100,
+            "category": { "$oid": "65d852ec2f1bfc3c4ffc6675" },
+            "isBestSeller": false
+        },
+        {
+            "_id": { "$oid": "65db0b69f08a93058c07f052" },
+            "name": "iPhone 14 Pro Max",
+            "description": "- Màn hình: LTPO Super Retina XDR OLED - 120Hz\n- Camera sau: 48MP, 2x 12MP\n- Camera trước: 12MP\n- CPU: A16 Bionic\n- Bộ nhớ: 512GB\n- RAM: 6GB\n- Hệ điều hành: IOS",
+            "price": 18990000,
+            "brand": "APPLE",
+            "rating": 4.1,
+            "numberReviews": 0,
+            "image": "https://elma2024.000webhostapp.com/images/products/z5191376386151_72cef145d4db1d9bcd024986e3939877.jpg",
+            "images": [
+                "https://elma2024.000webhostapp.com/images/products/z5191376386149_77afe781dfdba0fb67188467f6c0287a.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191376386147_facede3eb4714bb947245670015545a0.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191376381399_47d2c06a0c56936080731ce36aa03167.jpg"
+            ],
+            "quantity": 100,
+            "category": { "$oid": "65d852ec2f1bfc3c4ffc6675" },
+            "isBestSeller": false
+        }
+    ],
+
+    "laptop": [
+        {
+            "_id": { "$oid": "65db0b69f08a93058c07f053" },
+            "name": "Laptop Acer Aspire 3 A315-59-381E (NX.K6TSV.006) (i3-1215U)",
+            "description": "- CPU: Intel Core i3-1215U\n- Màn hình: 15.6\" (1920 x 1080)\n- RAM: 2 x 4GB DDR4 2400MHz\n- Đồ họa: Onboard Intel UHD Graphics\n- Lưu trữ: 512GB SSD M.2 NVMe /\n- Hệ điều hành: Windows 11 Home\n- Pin: 3 cell 40 Wh Pin liền\n- Khối lượng: 1.7kg\n- Chuẩn Non-EVO",
+            "price": 15290000,
+            "brand": "ACER",
+            "rating": 4,
+            "numberReviews": 0,
+            "image": "https://elma2024.000webhostapp.com/images/products/z5191444905960_6e7f642ee911a6d869d2750fec9c4eb4.jpg",
+            "images": [
+                "https://elma2024.000webhostapp.com/images/products/z5191444901607_c6254c6ca6f7accffe08c510d31f2580.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191444891666_a66eaead2322c98338c3fbe29269598a.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191444882630_989a628cab9eb8059fc89a94567c97ad.jpg"
+            ],
+            "quantity": 100,
+            "category": { "$oid": "65d853192f1bfc3c4ffc6676" },
+            "isBestSeller": false
+        },
+        {
+            "_id": { "$oid": "65db0b69f08a93058c07f054" },
+            "name": "Laptop MSI Stealth 16 Mercedes-AMG Motorsport A13VG (i9-13900H/RAM 32GB/2TB SSD/ Windows 11)",
+            "description": "- CPU: Intel Core i9-13900H\n- Màn hình: 16\" OLED (3840 x 2400)\n- RAM: 2 x 16GB DDR5 5200MHz\n- Đồ họa: RTX 4070 8GB GDDR6 / Intel Iris Xe Graphics\n- Lưu trữ: 2TB SSD M.2 NVMe /\n- Hệ điều hành: Windows 11 Home\n- Pin: 4 cell 99 Wh Pin liền\n- Khối lượng: 1.9kg\n- Chuẩn Non-EVO",
+            "price": 75690000,
+            "brand": "MSI",
+            "rating": 4.9,
+            "numberReviews": 0,
+            "image": "https://elma2024.000webhostapp.com/images/products/z5191444873640_b1dbfe19ebe3090908a768d3db9f46c5.jpg",
+            "images": [
+                "https://elma2024.000webhostapp.com/images/products/z5191444862407_db2ef25a43e54eb649c8bded6c1fe4fb.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191444852609_7e356630646efd7596081d0a9b1e862b.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191444838281_eafa0ab242fd372bf5ec027a66fdb0d1.jpg"
+            ],
+            "quantity": 100,
+            "category": { "$oid": "65d853192f1bfc3c4ffc6676" },
+            "isBestSeller": false
+        },
+        {
+            "_id": { "$oid": "65db0b69f08a93058c07f055" },
+            "name": "Laptop ACER Predator Helios Neo PHN16-71-53M7 (NH.QLUSV.005) (i5-13500HX/RAM 16GB/512GB SSD/ Windows 11)",
+            "description": "- CPU: Intel Core i5-13500HX\n- Màn hình: 16\" IPS (1920 x 1200),165Hz\n- RAM: 2 x 8GB DDR5 4800MHz\n- Đồ họa: RTX 4060 8GB GDDR6 / Intel UHD Graphics 710\n- Lưu trữ: 512GB SSD M.2 NVMe /\n- Hệ điều hành: Windows 11 Home\n- Pin: 4 cell 90 Wh Pin liền\n- Khối lượng: 2.6kg",
+            "price": 35990000,
+            "brand": "ACER",
+            "rating": 4.7,
+            "numberReviews": 0,
+            "image": "https://elma2024.000webhostapp.com/images/products/z5191444829072_9f54a7eacd580dfc6e681c4ddf87b6f5.jpg",
+            "images": [
+                "https://elma2024.000webhostapp.com/images/products/z5191444814906_4aa38ad899a42273de3c73f6d8b412d9.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191444811290_57134822f088b1c8891a9e372cefaaea.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191444798109_c033a32bed0245ca4fa7eefb5ee9ba77.jpg"
+            ],
+            "quantity": 100,
+            "category": { "$oid": "65d853192f1bfc3c4ffc6676" },
+            "isBestSeller": false
+        },
+        {
+            "_id": { "$oid": "65db0b69f08a93058c07f056" },
+            "name": "MacBook Pro M3 Max 2023 14 inch (36GB/1TB SSD)",
+            "description": "- CPU: Apple M3 Max\n- Màn hình: 14\" (3024 x 1964) Liquid Retina XDR\n- RAM: 36GB / 1TB SSD\n- Hệ điều hành: macOS\n- Pin: 72 Wh",
+            "price": 79990000,
+            "brand": "APPLE",
+            "rating": 4.9,
+            "numberReviews": 0,
+            "image": "https://elma2024.000webhostapp.com/images/products/z5191444788810_38e4b0f971b45ba9320dfd08db018564.jpg",
+            "images": [
+                "https://elma2024.000webhostapp.com/images/products/z5191444772824_68429724baca020b7d76ca911f7b1031.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191444772823_13b40488111401fc7ffc7cc951800f2b.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191444753702_efb7b0783165288cdcaba8c8677f7173.jpg"
+            ],
+            "quantity": 100,
+            "category": { "$oid": "65d853192f1bfc3c4ffc6676" },
+            "isBestSeller": false
+        },
+        {
+            "_id": { "$oid": "65db0b69f08a93058c07f057" },
+            "name": "Laptop Asus TUF Gaming F15 FX506HE-HN075W (i7-11800H)",
+            "description": "- CPU: Intel Core i7-11800H\n- Màn hình: 15.6\" IPS (1920 x 1080),144Hz\n- RAM: 2 x 8GB DDR4 3200MHz\n- Đồ họa: RTX 3050Ti 4GB GDDR6 / Intel UHD Graphics 750\n- Lưu trữ: 1TB SSD M.2 NVMe /\n- Hệ điều hành: Windows 11 Home\n- Pin: 3 cell 48 Wh Pin liền\n- Khối lượng: 2.3kg",
+            "price": 20490000,
+            "brand": "ASUS",
+            "rating": 4.3,
+            "numberReviews": 0,
+            "image": "https://elma2024.000webhostapp.com/images/products/z5191444739912_0adb25f9b70cfbf1d0159e5d21dae032.jpg",
+            "images": [
+                "https://elma2024.000webhostapp.com/images/products/z5191444724996_6f3e2a8dd8caf95afd123baca1c69565.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191444724995_e7493670c98186621eb0b2316eb0e218.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191444712997_fee0231b4dc0abb9ca5ad7ad69748c8f.jpg"
+            ],
+            "quantity": 100,
+            "category": { "$oid": "65d853192f1bfc3c4ffc6676" },
+            "isBestSeller": false
+        },
+        {
+            "_id": { "$oid": "65db0b69f08a93058c07f058" },
+            "name": "Laptop HP Pavilion 14-dv2071TU (7C0W0PA) (i7-1255U)",
+            "description": "- CPU: Intel Core i7-1255U\n- Màn hình: 14\" IPS (1920 x 1080)\n- RAM: 2 x 8GB DDR4 3200MHz\n- Đồ họa: Onboard Intel Iris Xe Graphics\n- Lưu trữ: 512GB SSD M.2 NVMe /\n- Hệ điều hành: Windows 11 Home SL\n- Pin: 3 cell 41 Wh Pin liền\n- Khối lượng: 1.4kg\n- Chuẩn Non-EVO",
+            "price": 20790000,
+            "brand": "HP",
+            "rating": 4.4,
+            "numberReviews": 0,
+            "image": "https://elma2024.000webhostapp.com/images/products/z5191444697875_04c3efec8b5ecc636b5e6d8d424f7b3f.jpg",
+            "images": [
+                "https://elma2024.000webhostapp.com/images/products/z5191444685572_1d3aac097b479bd61fa1b65fa7f02e6e.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191444675874_15f033bb14bf5f6605c62416b7f60832.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191444673970_43f4b1a139a0870733e1cbd223db7a5c.jpg"
+            ],
+            "quantity": 100,
+            "category": { "$oid": "65d853192f1bfc3c4ffc6676" },
+            "isBestSeller": false
+        },
+        {
+            "_id": { "$oid": "65db0b69f08a93058c07f059" },
+            "name": "Apple MacBook Pro M3 Pro 16\" (64GB/1TB SSD)",
+            "description": "- CPU: Apple M3 Pro\n- Màn hình: 16\" (3456 x 2234) Liquid Retina XDR\n- RAM: 64GB / 1TB SSD\n- Hệ điều hành: macOS\n- Pin: 100 Wh",
+            "price": 107490000,
+            "brand": "APPLE",
+            "rating": 4.9,
+            "numberReviews": 0,
+            "image": "https://elma2024.000webhostapp.com/images/products/z5191444667495_d0d75c4699aecd141247d3f884c567ac.jpg",
+            "images": [
+                "https://elma2024.000webhostapp.com/images/products/z5191444658756_33488fd2fd18e2094bb898f7894680b8.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191444658755_bdeb4cb39f08b2e5dd45a8dacb3dfad2.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191444649264_c49968155cfba6bcb0fbfc03919657bc.jpg"
+            ],
+            "quantity": 100,
+            "category": { "$oid": "65d853192f1bfc3c4ffc6676" },
+            "isBestSeller": false
+        },
+        {
+            "_id": { "$oid": "65db0b69f08a93058c07f05a" },
+            "name": "MacBook Pro M2 Pro 2023 16 inch (16GB/512GB SSD)",
+            "description": "- CPU: Apple M2 Pro\n- Màn hình: 16.2\" (3456 x 2234) Liquid Retina XDR\n- RAM: 16GB / 512GB SSD\n- Hệ điều hành: macOS\n- Pin: 100 Wh",
+            "price": 58350000,
+            "brand": "APPLE",
+            "rating": 4.5,
+            "numberReviews": 0,
+            "image": "https://elma2024.000webhostapp.com/images/products/z5191444641756_b77bffed7713d69c58c07c7dc0379cad.jpg",
+            "images": [
+                "https://elma2024.000webhostapp.com/images/products/z5191444636334_4e1cd3907c9754dddd1f36dc0b57e4ec.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191444627234_122af9d98a22ca5cd60a735818aaa635.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191444627233_c75f153a953eff02138134c092c158ec.jpg"
+            ],
+            "quantity": 100,
+            "category": { "$oid": "65d853192f1bfc3c4ffc6676" },
+            "isBestSeller": false
+        },
+        {
+            "_id": { "$oid": "65db0b69f08a93058c07f05b" },
+            "name": "Laptop ASUS ROG Flow X16 GV601VV-NL016W (i9-13900H/RAM 16GB/1TB SSD/ Windows 11)",
+            "description": "- CPU: Intel Core i9-13900H\n- Màn hình: 16\" (2560 x 1600),240Hz\n- RAM: 1 x 16GB DDR5 4800MHz\n- Đồ họa: RTX 4060 8GB GDDR6 / Intel Iris Xe Graphics\n- Lưu trữ: 1TB SSD M.2 NVMe /\n- Hệ điều hành: Windows 11 Home\n- Pin: 4 cell 90 Wh Pin liền\n- Khối lượng: 2.2kg\n- Chuẩn Non-EVO",
+            "price": 52590000,
+            "brand": "ASUS",
+            "rating": 4.6,
+            "numberReviews": 0,
+            "image": "https://elma2024.000webhostapp.com/images/products/z5191444617671_648141fdcfa5eccea02cd2865e34d7d6.jpg",
+            "images": [
+                "https://elma2024.000webhostapp.com/images/products/z5191444608718_1ee2a3d64239c1c7d6a8411fe8ec81ae.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191444598761_95560ae00c214fa7352ad6f3ef6d5a20.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191444588375_26fd22948400e6e44cbe1bfdc1f96963.jpg"
+            ],
+            "quantity": 100,
+            "category": { "$oid": "65d853192f1bfc3c4ffc6676" },
+            "isBestSeller": false
+        },
+        {
+            "_id": { "$oid": "65db0b69f08a93058c07f05c" },
+            "name": "Laptop LG Gram 2023 14Z90RS-G.AH54A5 (i5-1340P/RAM 16GB/512GB SSD/ Windows 11)",
+            "description": "- CPU: Intel Core i5-1340P\n- Màn hình: 14\" OLED (2880 x 1800),90Hz\n- RAM: 16GB Onboard LPDDR5 6000MHz\n- Đồ họa: Onboard Intel Iris Xe Graphics\n- Lưu trữ: 512GB SSD M.2 NVMe /\n- Hệ điều hành: Windows 11 Home\n- 72 Wh Pin liền\n- Khối lượng: 1kg\n- Chuẩn Intel EVO",
+            "price": 32390000,
+            "brand": "LG",
+            "rating": 4.5,
+            "numberReviews": 0,
+            "image": "https://elma2024.000webhostapp.com/images/products/z5191444580220_5433a22dc5bad63c61c71b5e187cd3f2.jpg",
+            "images": [
+                "https://elma2024.000webhostapp.com/images/products/z5191444570143_ed6750acb790e306fed745065b89ef27.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191444570142_b3ccd304ad0c38cc883602975c4b828d.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191444567963_e96250e7a78786ca60faea5c39e0f5ef.jpg"
+            ],
+            "quantity": 100,
+            "category": { "$oid": "65d853192f1bfc3c4ffc6676" },
+            "isBestSeller": false
+        }
+    ],
+
+    "desktop": [
+        {
+            "_id": { "$oid": "65db0b69f08a93058c07f05d" },
+            "name": "PC PV Home Office 30116 (R3 PRO 4350G/8GB/512GB SSD/No OS)",
+            "description": "CPU: AMD Ryzen 3 PRO 4350G\nMainboard: Prime A320M-K\nRAM: 8GB DDR4\nSSD: 512GB M.2 NVMe\nPSU: 500W GTX580\nCase: Phong Vũ PV-880B",
+            "price": 6449000,
+            "brand": "PHONG VŨ",
+            "rating": 4.8,
+            "numberReviews": 0,
+            "image": "https://elma2024.000webhostapp.com/images/products/z5191488446974_d7f2f703a4690c173002a8f53f95805b.jpg",
+            "images": [
+                "https://elma2024.000webhostapp.com/images/products/z5191488446973_4cc80d6a94d309a2499395403fc10a59.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191488436897_27d36a29c3d3a748807c11eda05a7dbb.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191488430584_0d1dd11387147825bf6f8c0c054e3e80.jpg"
+            ],
+            "quantity": 100,
+            "category": { "$oid": "65d85595f18239ff9bcbcd2b" },
+            "isBestSeller": false
+        },
+        {
+            "_id": { "$oid": "65db0b69f08a93058c07f05e" },
+            "name": "PC HP M01-F2029d 77B55PA (Intel Core i3-12100/8GB/256GB SSD/Không HDD/Windows 11 Home Single Language/WiFi 802.11ac)",
+            "description": "CPU: Intel Core i3-12100 (3.3 GHz - 4.3 GHz/12MB/4 nhân, 8 luồng)\nRAM: 1 x 8GB DDR4 2933MHz (2 Khe cắm)\nĐồ họa: Intel UHD Graphics 730\nLưu trữ: 256GB SSD M.2 NVMe/\nBàn phím + Chuột",
+            "price": 9890000,
+            "brand": "HP",
+            "rating": 4.9,
+            "numberReviews": 0,
+            "image": "https://elma2024.000webhostapp.com/images/products/z5191488415677_b06dc837686419ee0baa88f599277b79.jpg",
+            "images": [
+                "https://elma2024.000webhostapp.com/images/products/z5191488396021_9b1994c0fff8ee54cad1198955024cb9.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191488387669_4f0268a06c6a60cefe0994e6c425309c.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191488366841_f4ca79b1eb534a6793caf89f1662e59a.jpg"
+            ],
+            "quantity": 100,
+            "category": { "$oid": "65d85595f18239ff9bcbcd2b" },
+            "isBestSeller": false
+        },
+        {
+            "_id": { "$oid": "65db0b69f08a93058c07f05f" },
+            "name": "PC Dell Vostro 3020T 71023219 (Intel Core i3-13100/8GB/256GB SSD/Windows 11 Home SL 64-bit/WiFi 802.11ax)",
+            "description": "CPU: Intel Core i3-13100 (3.4 GHz - 4.5 GHz/12MB/4 nhân, 8 luồng)\nRAM: 1 x 8GB DDR4 3200MHz (2 Khe cắm, Hỗ trợ tối đa 64GB)\nĐồ họa: Intel UHD Graphics 730\nLưu trữ: 256GB M.2 NVMe SSD/\nBàn phím + Chuột",
+            "price": 10949000,
+            "brand": "DELL",
+            "rating": 4.8,
+            "numberReviews": 0,
+            "image": "https://elma2024.000webhostapp.com/images/products/z5191488356639_3796a3a282233afd7886a2ba87359a24.jpg",
+            "images": [
+                "https://elma2024.000webhostapp.com/images/products/z5191488356638_475037dd29575422a32acf74ee84e221.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191488347691_3d370301fdd9fbf2e1031fa936e709fe.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191488340671_cacadb888f842c7513f20d84f1ec4711.jpg"
+            ],
+            "quantity": 100,
+            "category": { "$oid": "65d85595f18239ff9bcbcd2b" },
+            "isBestSeller": false
+        },
+        {
+            "_id": { "$oid": "65db0b69f08a93058c07f060" },
+            "name": "PC HP Pro Tower 280 G9 72J49PA (Intel Core i5-12500/8GB/256GB SSD/Không HDD/Windows 11 Home/WiFi 802.11ac)",
+            "description": "CPU: Intel Core i5-12500 (3.0 GHz - 4.6 GHz/18MB/6 nhân, 12 luồng)\nRAM: 1 x 8GB DDR4 2933MHz (2 Khe cắm)\nĐồ họa: Intel UHD Graphics 770\nLưu trữ: 256GB M.2 NVMe SSD/\nBàn phím + Chuột, dây nguồn",
+            "price": 12350000,
+            "brand": "HP",
+            "rating": 4.6,
+            "numberReviews": 0,
+            "image": "https://elma2024.000webhostapp.com/images/products/z5191488332620_47d2ef88bf44892269b91549b9580ca0.jpg",
+            "images": [
+                "https://elma2024.000webhostapp.com/images/products/z5191488328118_882cd17ddc891c8cb1a776ad9e605d45.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191488328117_51ca6a1ba543c55ceebccba2c0595281.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191488317364_d643efba4457c05439b6efbdccc5817a.jpg"
+            ],
+            "quantity": 100,
+            "category": { "$oid": "65d85595f18239ff9bcbcd2b" },
+            "isBestSeller": false
+        },
+        {
+            "_id": { "$oid": "65db0b69f08a93058c07f061" },
+            "name": "PC Dell Vostro 3020T (71021400) 71021400 (Intel Core i5-13400/8GB/256GB SSD/1TB HDD/Windows 11 Home SL 64-bit/WiFi 802.11ax)",
+            "description": "CPU: Intel Core i5-13400 (2.5 GHz - 4.6 GHz/20MB/10 nhân, 16 luồng)\nRAM: 1 x 8GB DDR4 3200MHz (2 Khe cắm, Hỗ trợ tối đa 64GB)\nĐồ họa: Intel UHD Graphics 730\nLưu trữ: 256GB M.2 NVMe SSD/1TB HDD 7200RPM\nBàn phím + Chuột",
+            "price": 15090000,
+            "brand": "DELL",
+            "rating": 4.8,
+            "numberReviews": 0,
+            "image": "https://elma2024.000webhostapp.com/images/products/z5191488309013_799be2b8f22a36d34dc7bc354db7ccb5.jpg",
+            "images": [
+                "https://elma2024.000webhostapp.com/images/products/z5191488300491_d369cf895af50f99e84a89cd547b419d.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191488296259_5fe556b17240911fda919fc068d7fb36.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191488296258_04a6d5ff10fe64e6e44af1f1ae64057d.jpg"
+            ],
+            "quantity": 100,
+            "category": { "$oid": "65d85595f18239ff9bcbcd2b" },
+            "isBestSeller": false
+        },
+        {
+            "_id": { "$oid": "65db0b69f08a93058c07f062" },
+            "name": "Màn hình LCD LG 44.5\" 45GR95QE-B.ATV (3440 x 1440/OLED/240Hz/0.03 ms/FreeSync Premium)",
+            "description": "Kích thước: 44.5\" (3440 x 1440), Tỷ lệ 21:9\nTấm nền OLED, Góc nhìn: 178 (H) / 178 (V)\nTần số quét: 240Hz , Thời gian phản hồi 0.03 ms\nHIển thị màu sắc: 1 tỉ màu\nCông nghệ đồng bộ: FreeSync Premium\nCổng hình ảnh: 1 x DisplayPort, 2 x HDMI",
+            "price": 41290000,
+            "brand": "LG",
+            "rating": 4.9,
+            "numberReviews": 0,
+            "image": "https://elma2024.000webhostapp.com/images/products/z5191488285958_28bda41a79a81c175a958b9b4caefc9b.jpg",
+            "images": [
+                "https://elma2024.000webhostapp.com/images/products/z5191488279558_4333bb7a217e17901d6c6ed21e8f0af6.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191488269826_569b3b20b5f8fd71a74f2a6c86b97c05.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191488266862_015b99df3347fbb5d3169f1f45e0835d.jpg"
+            ],
+            "quantity": 100,
+            "category": { "$oid": "65d85595f18239ff9bcbcd2b" },
+            "isBestSeller": false
+        },
+        {
+            "_id": { "$oid": "65db0b69f08a93058c07f063" },
+            "name": "Màn hình LCD LG 27\" 27GR95QE-B.ATV (2560 x 1440/OLED/240Hz/0.03 ms/FreeSync Premium)",
+            "description": "Kích thước: 27\" (2560 x 1440), Tỷ lệ 16:9\nTấm nền OLED, Góc nhìn: 178 (H) / 178 (V)\nTần số quét: 240Hz , Thời gian phản hồi 0.03 ms\nHIển thị màu sắc: 1 tỉ màu\nCông nghệ đồng bộ: FreeSync Premium\nCổng hình ảnh: 1 x DisplayPort 1.4, 2 x HDMI 2.1",
+            "price": 16990000,
+            "brand": "LG",
+            "rating": 4.7,
+            "numberReviews": 0,
+            "image": "https://elma2024.000webhostapp.com/images/products/z5191488258889_f29d2b160c28bc7dc2348158ef1151de.jpg",
+            "images": [
+                "https://elma2024.000webhostapp.com/images/products/z5191488252782_0f0d1ce6962bc87d6ebd67b00c953168.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191488243180_775348e4a9beb89b67da6dfdce4f5601.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191488234288_259d800f5b754f8f14cbe8497277d7ee.jpg"
+            ],
+            "quantity": 100,
+            "category": { "$oid": "65d85595f18239ff9bcbcd2b" },
+            "isBestSeller": false
+        },
+        {
+            "_id": { "$oid": "65db0b69f08a93058c07f064" },
+            "name": "Màn hình LCD ASUS 27\" ProArt Display PA279CV (3840 x 2160/IPS/60Hz/5 ms/Adaptive Sync)",
+            "description": "Kích thước: 27\" (3840 x 2160), Tỷ lệ 16:9\nTấm nền IPS, Góc nhìn: 178 (H) / 178 (V)\nTần số quét: 60Hz , Thời gian phản hồi 5 ms\nHIển thị màu sắc: 1 tỉ màu\nCông nghệ đồng bộ: Adaptive Sync\nCổng hình ảnh: 1 x DisplayPort 1.2, 2 x HDMI 2.0, 1 x USB Type-C",
+            "price": 12990000,
+            "brand": "ASUS",
+            "rating": 4.7,
+            "numberReviews": 0,
+            "image": "https://elma2024.000webhostapp.com/images/products/z5191488222511_1a311bef28a216c6f86e7b0d9ab763cb.jpg",
+            "images": [
+                "https://elma2024.000webhostapp.com/images/products/z5191488202525_c22907d69a1037f37c15056dc38b0371.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191488195491_8d4d8f9a9f2ef6b90451051435c94825.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191488195490_9ce20b2ba56a4e20438a1bd877167c91.jpg"
+            ],
+            "quantity": 100,
+            "category": { "$oid": "65d85595f18239ff9bcbcd2b" },
+            "isBestSeller": false
+        },
+        {
+            "_id": { "$oid": "65db0b69f08a93058c07f065" },
+            "name": "Màn hình LCD LG 31.5\" Ergonomic 32UN880 (3840 x 2160/IPS/60Hz/5 ms/FreeSync)",
+            "description": "Kích thước: 31.5\" (3840 x 2160), Tỷ lệ 16:9\nTấm nền IPS, Góc nhìn: 178 (H) / 178 (V)\nTần số quét: 60Hz , Thời gian phản hồi 5 ms\nHIển thị màu sắc: 1 tỉ màu\nCông nghệ đồng bộ: FreeSync\nCổng hình ảnh: 1 x DisplayPort 1.4, 2 x HDMI, 1 x USB Type-C",
+            "price": 13190000,
+            "brand": "LG",
+            "rating": 4.8,
+            "numberReviews": 0,
+            "image": "https://elma2024.000webhostapp.com/images/products/z5191488183996_4fcde832bce93fd68f47d19c8539413b.jpg",
+            "images": [
+                "https://elma2024.000webhostapp.com/images/products/z5191488183995_dbc853168d1b2fa0f90d1dc4686566d8.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191488175744_39f4a0341445a1118af3f1028f0de551.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191488175743_3cc15fffb89966b5da53dfe1f77d378d.jpg"
+            ],
+            "quantity": 100,
+            "category": { "$oid": "65d85595f18239ff9bcbcd2b" },
+            "isBestSeller": false
+        },
+        {
+            "_id": { "$oid": "65db0b69f08a93058c07f066" },
+            "name": "Màn hình LCD ASUS 23.8\" VG249Q3A (1920 x 1080/IPS/180Hz/1 ms/FreeSync Premium)",
+            "description": "Kích thước: 23.8\" (1920 x 1080), Tỷ lệ 16:9\nTấm nền IPS, Góc nhìn: 178 (H) / 178 (V)\nTần số quét: 180Hz , Thời gian phản hồi 1 ms\nHIển thị màu sắc: 16.7 triệu màu\nCông nghệ đồng bộ: FreeSync Premium\nCổng hình ảnh: 1 x DisplayPort 1.2, 2 x HDMI 2.0",
+            "price": 3390000,
+            "brand": "ASUS",
+            "rating": 4.0,
+            "numberReviews": 0,
+            "image": "https://elma2024.000webhostapp.com/images/products/z5191488165723_696cac6f919a37bab79a0b8206376008.jpg",
+            "images": [
+                "https://elma2024.000webhostapp.com/images/products/z5191488159910_8e09db222664961245c5a1c627b14d08.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191488155314_fed361fe03f8605d68cb74c7a7ca2113.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191488152503_3e72a1a2d96d8ef0ad532faf19aa9f12.jpg"
+            ],
+            "quantity": 100,
+            "category": { "$oid": "65d85595f18239ff9bcbcd2b" },
+            "isBestSeller": false
+        }
+    ],
+
+    "headphone": [
+        {
+            "_id": { "$oid": "65db0b69f08a93058c07f067" },
+            "name": "Tai nghe Logitech H390",
+            "description": "- Chỉ cần cắm cổng USB-A vào là sẵn sàng sử dụng\n- Nút điều khiển trên dây cho phép kiểm soát âm lượng mà không làm gián đoạn cuộc gọi\n- Quai đeo và chụp tai có đệm giả da thoải mái đeo hàng giờ\n- Micro khử tiếng ồn giảm tạp âm khi đàm thoại",
+            "price": 749000,
+            "brand": "LOGITECH",
+            "rating": 4,
+            "numberReviews": 0,
+            "image": "https://elma2024.000webhostapp.com/images/products/z5191497805306_61e9d3019ef21d34c8240b7a7d5433e6.jpg",
+            "images": [
+                "https://elma2024.000webhostapp.com/images/products/z5191497793148_d759d033e17ca919154eb9954a25f409.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191497779476_b461f66c8c8aa81c2837348049f7f9ca.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191497793147_59b6beee0aa2735ac4af57586dba3668.jpg"
+            ],
+            "quantity": 100,
+            "category": { "$oid": "65d855a2f18239ff9bcbcd2d" },
+            "isBestSeller": false
+        },
+        {
+            "_id": { "$oid": "65db0b69f08a93058c07f068" },
+            "name": "Tai nghe không dây Bose QuietComfort 35 II Gaming",
+            "description": "- Công nghệ Bose Acoustic Noise Canceling\n- Tích hợp Micro Noise Rejecting\n- Đi kèm bộ PC desktop controller\n- Trợ lý ảo giọng nói\n- Kết nối: Bluetooth 4.2\n- Phạm vi Bluetooth: 10m\n- Thời lượng: 20h không dây, 40h chơi game/có dây\n- Thời gian sạc 2.25h, Sạc nhanh 15p",
+            "price": 8990000,
+            "brand": "BOSE",
+            "rating": 4.8,
+            "numberReviews": 0,
+            "image": "https://elma2024.000webhostapp.com/images/products/z5191497771256_43e9660a0248dad0b114649ef117b502.jpg",
+            "images": [
+                "https://elma2024.000webhostapp.com/images/products/z5191497765924_fb56ba5ed560f56f5aa094936fd11684.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191497765923_abf57094390b9c377d460b186af22e68.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191497759817_8f2abbf09a0d3b71866d61f4711a2133.jpg"
+            ],
+            "quantity": 100,
+            "category": { "$oid": "65d855a2f18239ff9bcbcd2d" },
+            "isBestSeller": false
+        },
+        {
+            "_id": { "$oid": "65db0b69f08a93058c07f069" },
+            "name": "Tai nghe gaming không dây SteelSeries Arctis Nova 7 Wireless Dragon",
+            "description": "- Hệ thống âm thanh Nova có Trình điều khiển độ trung thực cao\n- Chất lượng âm thanh vượt trội với Âm thanh không gian 360°\n- Thời lượng pin lên đến 38h với sạc nhanh USB-C, mang đến 6 giờ sử dụng sau 15 phút\n- Mic khử tiếng ồn do AI hỗ trợ sử dụng thuật toán Sonar ClearCast AI để tắt âm thanh xung quanh hoặc tiếng ồn của đồng đội, với ChatMix Dial trên tai nghe",
+            "price": 6390000,
+            "brand": "STEELSERIES",
+            "rating": 4.7,
+            "numberReviews": 0,
+            "image": "https://elma2024.000webhostapp.com/images/products/z5191498144334_790bc7de83e9b0862e627cd6707345c7.jpg",
+            "images": [
+                "https://elma2024.000webhostapp.com/images/products/z5191498144333_d7a5d0c72b7e8f389ed4e355a20d0fb2.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191498112754_f50561452172d905fbb6d8ea8d0e1257.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191498108187_f29a1c78a1c7f72eeecca3b244a7f6be.jpg"
+            ],
+            "quantity": 100,
+            "category": { "$oid": "65d855a2f18239ff9bcbcd2d" },
+            "isBestSeller": false
+        },
+        {
+            "_id": { "$oid": "65db0b69f08a93058c07f06a" },
+            "name": "Tai Nghe Bluetooth LG HBS-FN6",
+            "description": "- Công nghệ âm thanh MERDIAN\n- Các chế độ EQ tùy chỉnh của MERIDIAN\n- Tính năng diệt khuẩn UVnano\n- Chế độ âm thanh Surround\n- Thiết kế nhỏ gọn, tiện lợi",
+            "price": 3490000,
+            "brand": "LG",
+            "rating": 4.8,
+            "numberReviews": 0,
+            "image": "https://elma2024.000webhostapp.com/images/products/z5191498076041_dcf6e25ccb1f89f4e4d48462dba8ae1e.jpg",
+            "images": [
+                "https://elma2024.000webhostapp.com/images/products/z5191498055159_a31a011d69e04305ebdf42239b5594fa.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191498022733_f37f0034fc8701b8fd242f58a712f9a3.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191498014994_1d7d80f5855181715e40d8ba6b1308ff.jpg"
+            ],
+            "quantity": 100,
+            "category": { "$oid": "65d855a2f18239ff9bcbcd2d" },
+            "isBestSeller": false
+        },
+        {
+            "_id": { "$oid": "65db0b69f08a93058c07f06b" },
+            "name": "Tai nghe Bluetooth Sudio Vasa Bla",
+            "description": "- Tai nghe in-ear Bluetooth Sudio Vasa Bla\n- Thiết kế với dây dẹt cao su chống rối\n- 3 nút bấm điều khiển tích hợp trên dây\n- Sạc nhanh mỗi 10 phút cho 1 tiếng sử dụng\n- Thời gian sử dụng lên đến 9 giờ",
+            "price": 2490000,
+            "brand": "SUDIO",
+            "rating": 4.9,
+            "numberReviews": 0,
+            "image": "https://elma2024.000webhostapp.com/images/products/z5191498011797_02844d13f7c508c311a050a9923d5922.jpg",
+            "images": [
+                "https://elma2024.000webhostapp.com/images/products/z5191498003108_507873aa28bdbb8f4c9e29771443f7b6.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191497986876_266bac6b75ad8e4f6bbc33756cbfaf31.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191497986875_5c5d04c5a0d47bde8efdf5bc11a240ff.jpg"
+            ],
+            "quantity": 100,
+            "category": { "$oid": "65d855a2f18239ff9bcbcd2d" },
+            "isBestSeller": false
+        },
+        {
+            "_id": { "$oid": "65db0b69f08a93058c07f06c" },
+            "name": "Tai nghe Xiaomi Mi Basic",
+            "description": "- Khoang âm thanh hợp kim nhôm\n- Đệm tai silicone thân thiện với da\n- Dây đeo chắc chắn\n- Hệ thống giảm chấn cân bằng thế hệ 3\n- Chất lượng âm thành rõ ràng\n- Hỗ trợ micro và nút bấm trên dây",
+            "price": 149000,
+            "brand": "XIAOMI",
+            "rating": 4.3,
+            "numberReviews": 0,
+            "image": "https://elma2024.000webhostapp.com/images/products/z5191497976275_3bab3b335ada9ca4ac395ca0baf6f34f.jpg",
+            "images": [
+                "https://elma2024.000webhostapp.com/images/products/z5191497966595_a719e16ec98446624b82e52b72d2b15d.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191497958158_a8056f9e4fb470f17c29b13fdf0f5c8e.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191497940505_6a8e36db2d92d8e53ff22a917b69c562.jpg"
+            ],
+            "quantity": 100,
+            "category": { "$oid": "65d855a2f18239ff9bcbcd2d" },
+            "isBestSeller": false
+        },
+        {
+            "_id": { "$oid": "65db0b69f08a93058c07f06d" },
+            "name": "Tai nghe Soundmax AH 306S",
+            "description": "- Kiểu kết nối Tai nghe có dây\n- Trở kháng 30 ohms\n- Tần số phản hồi 20Hz-20KHz\n- Độ nhạy 90-98dB/3mW/10mm",
+            "price": 160000,
+            "brand": "SOUNDMAX",
+            "rating": 4.4,
+            "numberReviews": 0,
+            "image": "https://elma2024.000webhostapp.com/images/products/z5191497938332_10663178e5d3d7922cb1c04b222313b6.jpg",
+            "images": [
+                "https://elma2024.000webhostapp.com/images/products/z5191497927131_84941bf32d5673e367d166c60ce795a4.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191497923404_90daa44091baa0f70db4f1b6f881d971.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191497913489_4fc8132eec1dd6e0b8d3dc6d418347f9.jpg"
+            ],
+            "quantity": 100,
+            "category": { "$oid": "65d855a2f18239ff9bcbcd2d" },
+            "isBestSeller": false
+        },
+        {
+            "_id": { "$oid": "65db0b69f08a93058c07f06e" },
+            "name": "Tai nghe In-Ear JBL C200SI (C200SIUGMTCN)",
+            "description": "- Trọng lượng nhẹ và thiết kế nhỏ gọn\n- Một nút bấm hỗ trợ nhận cuộc gọi với mic\n- Âm thanh đặc trưng của JBL sống động\n- Housing hoàn thiện với màu Metallic gray sang trọng",
+            "price": 290000,
+            "brand": "JBL",
+            "rating": 4.3,
+            "numberReviews": 0,
+            "image": "https://elma2024.000webhostapp.com/images/products/z5191497897875_2439511fcc573ba975f7ee207ce8cc33.jpg",
+            "images": [
+                "https://elma2024.000webhostapp.com/images/products/z5191497889397_a9c168d0161c074110d635fa3106312b.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191497866547_57fc56835493c36faa8efb35a8e7bffc.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191497866546_1487e0142fc3df9489f91460138f269d.jpg"
+            ],
+            "quantity": 100,
+            "category": { "$oid": "65d855a2f18239ff9bcbcd2d" },
+            "isBestSeller": false
+        },
+        {
+            "_id": { "$oid": "65db0b69f08a93058c07f06f" },
+            "name": "Tai nghe gaming không dây INZONE H7 SONY WH-G700/WZ",
+            "description": "- Được trang bị 360 Spatial Sound dành cho Chơi game giúp phát hiện chính xác đối thủ\n- Trang bị công nghệ âm thanh tiên tiến nhờ kích hoạt phần mềm PC INZONE Hub\n- Thiết kế đệm tai êm ái cho trải nghiệm đeo thoải mái hàng giờ\n- Kết nối 2,4 GHz đồng thời với kết nối Bluetooth\n- Tích hợp Mic tiện lợi gập xuống để nói, gập lên để tắt tiếng",
+            "price": 4900000,
+            "brand": "SONY",
+            "rating": 4.6,
+            "numberReviews": 0,
+            "image": "https://elma2024.000webhostapp.com/images/products/z5191497866353_746eda0325ff754cb051c5c88b26004f.jpg",
+            "images": [
+                "https://elma2024.000webhostapp.com/images/products/z5191497854995_dea0df3ef51102322e62ed79cfc65df4.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191497854994_2b8c8114a1d615494fb1569082128ae3.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191497847326_aab5557d2321a8708f762fc9882988bb.jpg"
+            ],
+            "quantity": 100,
+            "category": { "$oid": "65d855a2f18239ff9bcbcd2d" },
+            "isBestSeller": false
+        },
+        {
+            "_id": { "$oid": "65db0b69f08a93058c07f070" },
+            "name": "Tai nghe Bluetooth Jabra Elite 65t Titanum Black",
+            "description": "- Tích hợp Microphone và điều chỉnh âm lượng\n- Kết nối Bluetooth 5.0\n- Phạm vi hoạt động: 10m\n- Điều khiển bằng giọng nói, tích hợp công nghệ chống ồn ANC\n- Chống bụi, nước chuẩn IP55",
+            "price": 3290000,
+            "brand": "JABRA",
+            "rating": 4.7,
+            "numberReviews": 0,
+            "image": "https://elma2024.000webhostapp.com/images/products/z5191497839725_e072ab384f3d17fa78050690e1e8eb73.jpg",
+            "images": [
+                "https://elma2024.000webhostapp.com/images/products/z5191497834984_e069e96d087c5f2e6d49c224f9bcb72d.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191497825376_d04cc671e6b01cfbb4f73ae31ab7fd76.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191497805307_493f2872996a928767a652738135ac1d.jpg"
+            ],
+            "quantity": 100,
+            "category": { "$oid": "65d855a2f18239ff9bcbcd2d" },
+            "isBestSeller": false
+        }
+    ],
+
+    "camera": [
+        {
+            "_id": { "$oid": "65db0b69f08a93058c07f071" },
+            "name": "Máy ảnh Leica M11",
+            "description": "- Bộ nhớ trong 64GB và Khe cắm SD UHS-II\n- Bộ xử lý Maestro III\n- Cảm biến BSI CMOS Full-Frame 60MP\n- Chụp liên tục 4.5 khung hình/giây",
+            "price": 169990000,
+            "brand": "LEICA",
+            "rating": 4.6,
+            "numberReviews": 0,
+            "image": "https://elma2024.000webhostapp.com/images/products/z5191505191940_3282fdab4035718b465e34aed0ec25ec.jpg",
+            "images": [
+                "https://elma2024.000webhostapp.com/images/products/z5191505191939_c5e6f4eba63457c7d069b7ce5d54b7ca.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191505181865_fe9d50c8db68439dc77909be699bf5d1.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191505171794_15341c4fb860bb8b5d3da75d06459bad.jpg"
+            ],
+            "quantity": 100,
+            "category": { "$oid": "65d85626f18239ff9bcbcd2f" },
+            "isBestSeller": false
+        },
+        {
+            "_id": { "$oid": "65db0b69f08a93058c07f072" },
+            "name": "Máy ảnh Fujifilm GFX100",
+            "description": "- Cảm biến CMOS BSI 43.8 x 32.9mm 102MP\n- Bộ xử lý hình ảnh X Processor 4\n- EVF OLED 5.76 triệu điểm tháo rời được\n- Màn hình LCD cảm ứng, lật, 3.2\" 2.36 triệu điểm\n- Video 4K30 DCI; F-Log Gamma & xuất 10 bit\n- Ổn định hình ảnh sensor-shift 5 trục\n- AF nhận diện pha 2.16 triệu điểm\n- ISO 100-12800\n- Chụp liên tiếp đến 5 fps\n- Tích hợp báng pin\n- 2 khe cắm thẻ nhớ SD",
+            "price": 254999000,
+            "brand": "Fujifilm",
+            "rating": 4.8,
+            "numberReviews": 0,
+            "image": "https://elma2024.000webhostapp.com/images/products/z5191505161973_be9a459d6de4aa1b19c6d50633343997.jpg",
+            "images": [
+                "https://elma2024.000webhostapp.com/images/products/z5191505147133_88762c67e933fded2b3ad78ded2835d0.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191505136577_31e99a805ba7e124fd230c9cfac27ad0.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191505123222_2c33205847fc43996594dd6a1b49464c.jpg"
+            ],
+            "quantity": 100,
+            "category": { "$oid": "65d85626f18239ff9bcbcd2f" },
+            "isBestSeller": false
+        },
+        {
+            "_id": { "$oid": "65db0b69f08a93058c07f073" },
+            "name": "MÁY ẢNH CANON EOS 1D X MARK III BODY",
+            "description": "- Cảm biến FF CMOS 20.1MP & vi xử lý DIGIC X\n- Chụp liên tiếp 16 fps (OVF) / 20 fps (LCD)\n- Quay video 5.5K RAW 60p, 4K DCI/UHD 60p\n- Hỗ trợ tỉ lệ crop full width DCI, 1.3x crop\n- Hệ thống lấy nét EOS iTR AF X 191 điểm\n- 2 khay thẻ nhớ CFexpress\n- Khối lượng: 1440g\n- Kích cỡ: 158 x 168 x 83 mm\n- Phụ kiện đi kèm: Nắp body, Pin, Sạc, Thẻ bảo hành, Hướng dẫn sử dụng",
+            "price": 186000000,
+            "brand": "CANON",
+            "rating": 4.7,
+            "numberReviews": 0,
+            "image": "https://elma2024.000webhostapp.com/images/products/z5191505110452_4336789c1398deb0dba644dfa4b2f6f6.jpg",
+            "images": [
+                "https://elma2024.000webhostapp.com/images/products/z5191505098552_74d3c5cdc10b28e3df0eb6b47dc68b04.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191505086528_ca45cf867093e6bb19d4b00f6ef1de7b.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191505051039_83d66eaa47d50cf1b66becb0eb526bb1.jpg"
+            ],
+            "quantity": 100,
+            "category": { "$oid": "65d85626f18239ff9bcbcd2f" },
+            "isBestSeller": false
+        },
+        {
+            "_id": { "$oid": "65db0b69f08a93058c07f074" },
+            "name": "MÁY ẢNH NIKON D5 BODY",
+            "description": "- Cảm biến hình ảnh mới EXPEED 5 với độ phân giải 20.8MP\n- Dãi ISO ISO 100 đến 102.400 (mở rộng từ 50 3.280.000)\n- Hệ thống lấy nét với 153 điểm lấy nét\n- 99 điểm lấy nét cross-type.\n- Có khả năng quay video 4K Ultra High Definition (UHD)\n- Khả năng chụp liên tục 12 fps , 14 fps\n- Pin tương thích EN-EL18a/ EN-EL18",
+            "price": 122000000,
+            "brand": "NIKON",
+            "rating": 4.9,
+            "numberReviews": 0,
+            "image": "https://elma2024.000webhostapp.com/images/products/z5191505049773_83c1824815ff961e24243eaf2cd88153.jpg",
+            "images": [
+                "https://elma2024.000webhostapp.com/images/products/z5191505038798_1a3866b8cec830c94bbd61ac8c883f47.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191505032935_8e8483bdf102c9e77567ae25d54c2175.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191505016691_f174ff1b2fd78d3ecadde48fc09a6cab.jpg"
+            ],
+            "quantity": 100,
+            "category": { "$oid": "65d85626f18239ff9bcbcd2f" },
+            "isBestSeller": false
+        },
+        {
+            "_id": { "$oid": "65db0b69f08a93058c07f075" },
+            "name": "MÁY ẢNH FUJIFILM INSTAX MINI 12 (LILAC PURPLE)",
+            "description": "- Độ dài tiêu cự: 60mm\n- Độ phóng đại: 0.37x\n- Khoảng cách lấy nét tối thiểu 30cm\n- Kích thước: 104 x 66.6 x 122 mm\n-Kính ngắm quang học\n- Loại film: Fujifilm instax mini Instant Film\n- Ống kính Fujifilm 60mm có gương selfie\n- Trọng lượng thân máy: 306 g",
+            "price": 2190000,
+            "brand": "FUJIFILM",
+            "rating": 4.8,
+            "numberReviews": 0,
+            "image": "https://elma2024.000webhostapp.com/images/products/z5191505011524_964f092561ac68128ce925b3b9b15603.jpg",
+            "images": [
+                "https://elma2024.000webhostapp.com/images/products/z5191504993184_43253db374eb42b5943fa77669f7a7b3.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191504993183_f44117bb8235e9bcfd732406aeb990c0.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191504977693_e7caa39f84bfdab43a54da94f0251bac.jpg"
+            ],
+            "quantity": 100,
+            "category": { "$oid": "65d85626f18239ff9bcbcd2f" },
+            "isBestSeller": false
+        },
+        {
+            "_id": { "$oid": "65db0b69f08a93058c07f076" },
+            "name": "MÁY QUAY CHUYÊN DỤNG CANON 20F-SH",
+            "description": "- Hoạt động trong môi trường cực thiếu sáng với ISO 4 triệu\n- Quay phim chất lượng cao Full HD 1080p/1080i/720p\n- Điều khiển linh hoạt với các chế độ tự động và tùy chỉnh\n- Tương thích với dòng ống kính EF phong phú\n- Chế độ điều khiển từ xa và filter ND/IR tích hợp\n- Nhỏ và nhẹ, đa dụng",
+            "price": 550000000,
+            "brand": "CANON",
+            "rating": 4.6,
+            "numberReviews": 0,
+            "image": "https://elma2024.000webhostapp.com/images/products/z5191504977694_1f7cbb91bf632a91074319df3c1f98d5.jpg",
+            "images": [
+                "https://elma2024.000webhostapp.com/images/products/z5191504960015_d69b22b573441ed28b55c5da3790af4f.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191504938064_7b1be09307c6214658682b4575b5b6a4.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191504949055_a7aead2e9b0144cf2b78a141c716ba41.jpg"
+            ],
+            "quantity": 100,
+            "category": { "$oid": "65d85626f18239ff9bcbcd2f" },
+            "isBestSeller": false
+        },
+        {
+            "_id": { "$oid": "65db0b69f08a93058c07f077" },
+            "name": "MÁY QUAY SONY PXW-FX9",
+            "description": "- Máy quay phim lý tưởng cho làm phim điện ảnh.\n- Thế hệ kế thừa từ dòng máy quay cao cấp VENICE\n- Máy quay cảm biến full-frame 6K của Sony tích hợp công nghệ lấy nét tự động Fast Hybrid AF\n- Công nghệ xử lý Dual Base ISO\n- Công nghệ xử lý màu S-Cinetone™",
+            "price": 295000000,
+            "brand": "SONY",
+            "rating": 4.9,
+            "numberReviews": 0,
+            "image": "https://elma2024.000webhostapp.com/images/products/z5191504954478_67eda8b9dc00b8ed297720c721f139f8.jpg",
+            "images": [
+                "https://elma2024.000webhostapp.com/images/products/z5191504897012_40a8d8e71cc3d6d60fb4716b4a21abb2.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191504918072_dfd26f2dde5246b104dd6ad50d2eac0d.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191504929936_f306b5f98c99395f5e681194ff580168.jpg"
+            ],
+            "quantity": 100,
+            "category": { "$oid": "65d85626f18239ff9bcbcd2f" },
+            "isBestSeller": false
+        },
+        {
+            "_id": { "$oid": "65db0b69f08a93058c07f078" },
+            "name": "MÁY QUAY CHUYÊN DỤNG SONY PXW-X320 (PAL/ NTSC)",
+            "description": "- Hãng sản xuất (Manufacture): Sony\n- Độ lớn màn hình LCD (inch): 3.5 inch\n- Cảm biến 3 x 1/2\" Exmor CMOS\n- 1920 x 1080 59.94i/p\n- XAVC Intra/Long, MPEG, DVCAM\n- 2 khe SxS Memory Card, 1 khe SD\n- Lens zoom 16x với Servo Control\n- Khẩu độ: f/1.9 - f/16",
+            "price": 262000000,
+            "brand": "SONY",
+            "rating": 4.8,
+            "numberReviews": 0,
+            "image": "https://elma2024.000webhostapp.com/images/products/z5191504881963_71d4eed7038549fc044f827079c1dbd3.jpg",
+            "images": [
+                "https://elma2024.000webhostapp.com/images/products/z5191504892561_56313c5f2042c1947ad15a7a33ca2397.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191504865146_ec6ce142640a6432d65444fbc9a03d08.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191504846534_17b9907ebd58630afd5ccb80d7cee05d.jpg"
+            ],
+            "quantity": 100,
+            "category": { "$oid": "65d85626f18239ff9bcbcd2f" },
+            "isBestSeller": false
+        },
+        {
+            "_id": { "$oid": "65db0b69f08a93058c07f079" },
+            "name": "ỐNG KÍNH MÁY QUAY CANON 20X50 IAS H/E1 (EF/PL)",
+            "description": "- Ngàm EF\n- Ống kính Ultra Telephoto độ phân giải 4K\n- Tỷ lệ phóng đại lớn, 20 lần, 1000mm\n- Bộ mở rộng gắn sẵn 1.5 lần\n- Tiêu cự tối đa 1500mm\n- Khẩu độ 11 lá cho hình ảnh mượt mà, hấp dẫn\n- Giao tiếp dữ liệu Ống kính-camera\n- Tương thích với camera Super 35mm ngàm EF",
+            "price": 1601670000,
+            "brand": "CANON",
+            "rating": 5,
+            "numberReviews": 0,
+            "image": "https://elma2024.000webhostapp.com/images/products/z5191504819508_d62fadaecd5086d51ba4feab210360f8.jpg",
+            "images": [
+                "https://elma2024.000webhostapp.com/images/products/z5191504827847_6035b15d10cc211cc3c987f4431caa9e.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191504803694_ccfd29d518d96be7208dcdfe457686bb.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191504776733_9de01027ce836701ea44790e37e1efed.jpg"
+            ],
+            "quantity": 100,
+            "category": { "$oid": "65d85626f18239ff9bcbcd2f" },
+            "isBestSeller": false
+        },
+        {
+            "_id": { "$oid": "65db0b69f08a93058c07f07a" },
+            "name": "MÁY QUAY CHUYÊN DỤNG CANON EOS C700",
+            "description": "- Cảm biến CMOS Full-frame 5.9K\n- Hỗ trợ Anamorphic Lens\n- Hỗ trợ quay định dạng RAW\n- Hỗ trợ định dạng Canon XF-AVC và ProRes (không cần bộ ghi ngoài)\n- Hỗ trợ thẻ Cfast và SD\n- Tích hợp Canon Log 2 và 3\n- Hỗ trợ không gian màu ACES\n- Tích hợp Dual Pixel CMOS AF (chỉ ngàm EF mới hỗ trợ)\n- Chip xử lý: Triple DIG!C DV 5 Image Processors",
+            "price": 770000000,
+            "brand": "CANON",
+            "rating": 4.9,
+            "numberReviews": 0,
+            "image": "https://elma2024.000webhostapp.com/images/products/z5191504789858_951d6907b56c9de98d762e6dc2f3caca.jpg",
+            "images": [
+                "https://elma2024.000webhostapp.com/images/products/z5191504803693_7a1cba887c8e0dbc151711148dee992f.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191504769776_3a36337487de1e217d2fcf2a5f7b5ad8.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191504765674_6c26be27ed15f6c303c2e1ab77c5869e.jpg"
+            ],
+            "quantity": 100,
+            "category": { "$oid": "65d85626f18239ff9bcbcd2f" },
+            "isBestSeller": false
+        }
+    ],
+
+    "tivi": [
+        {
+            "_id": { "$oid": "65db0b69f08a93058c07f07b" },
+            "name": "Smart Tivi Samsung 4K Neo QLED 98 inch QA98QN90A",
+            "description": "- Kích thước: 98\"\n- Độ phân giải: 3841 x 2160 / Ultra HD (4K)\n- Hệ điều hành: Tizen OS\n- Kết nối mạng: LAN, WiFi, Bluetooth\n- Cổng xuất hình: 4 x HDMI",
+            "price": 179900000,
+            "brand": "SAMSUNG",
+            "rating": 4.5,
+            "numberReviews": 0,
+            "image": "https://elma2024.000webhostapp.com/images/products/z5191514145325_bebccd2075cea45f529986319090be93.jpg",
+            "images": [
+                "https://elma2024.000webhostapp.com/images/products/z5191514145324_9d41b56aa7e59ae2bca005cfe5bbff94.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191514130288_ece2cc11f492b4b7bc3382e44a936dff.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191514130287_b4bf89f187da8a08ef2df1ce30999434.jpg"
+            ],
+            "quantity": 100,
+            "category": { "$oid": "65d85632f18239ff9bcbcd31" },
+            "isBestSeller": false
+        },
+        {
+            "_id": { "$oid": "65db0b69f08a93058c07f07c" },
+            "name": "Google Tivi TCL 4K 98 inch 98C735",
+            "description": "- Android Tivi QLED với độ phân giải 4K\n- Tương thích chuẩn IMAX Enhanced\n- Công nghệ hình ảnh Dolby Vision IQ\n- Âm thanh vòm Dolby Atmos, DTS sống động\n- Kho ứng dụng phong phú\n- Google Assistant có tiếng Việt\n- Tìm kiếm giọng nói trên YouTube bằng tiếng Việt",
+            "price": 58990000,
+            "brand": "TCL",
+            "rating": 4.6,
+            "numberReviews": 0,
+            "image": "https://elma2024.000webhostapp.com/images/products/z5191514120194_11807d3802c7c2abf03c63fd124227af.jpg",
+            "images": [
+                "https://elma2024.000webhostapp.com/images/products/z5191514110734_91aa53f41f24740201a450ed6489912d.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191514100569_b5eb4d44c99e864c88b2c0e50227f4c1.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191514090890_316ef17774622549477bf338ab290fd7.jpg"
+            ],
+            "quantity": 100,
+            "category": { "$oid": "65d85632f18239ff9bcbcd31" },
+            "isBestSeller": false
+        },
+        {
+            "_id": { "$oid": "65db0b69f08a93058c07f07d" },
+            "name": "Smart Tivi Samsung 4K QLED The Serif 65 inch QA65LS01B",
+            "description": "- Kích thước: 65\"\n- Độ phân giải: 3840 x 2160 / Ultra HD (4K)\n- Hệ điều hành: Tizen\n- Kết nối mạng: WiFi, Bluetooth\n- Cổng xuất hình: 4 x HDMI",
+            "price": 32890000,
+            "brand": "SAMSUNG",
+            "rating": 4.8,
+            "numberReviews": 0,
+            "image": "https://elma2024.000webhostapp.com/images/products/z5191514081848_9f076a82ec8e00525a38dd63c62862e5.jpg",
+            "images": [
+                "https://elma2024.000webhostapp.com/images/products/z5191514080261_170004f325e3b8cccf8ca8bac69fbd2f.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191514054718_50a0b14e8fb260a8256af520cde6c9c7.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191514054717_eda7632872d1377059e7de8025249ce5.jpg"
+            ],
+            "quantity": 100,
+            "category": { "$oid": "65d85632f18239ff9bcbcd31" },
+            "isBestSeller": false
+        },
+        {
+            "_id": { "$oid": "65db0b69f08a93058c07f07e" },
+            "name": "Smart Tivi Samsung 4K OLED 65 inch QA65S95C",
+            "description": "- Kích thước: 65''\n- Độ phân giải: 3840 x 2160 / Ultra HD (4K)\n- Hệ điều hành: Tizen\n- Kết nối mạng: LAN, WiFi, Bluetooth\n- Cổng xuất hình: 4 x HDMI",
+            "price": 66350000,
+            "brand": "SAMSUNG",
+            "rating": 4.2,
+            "numberReviews": 0,
+            "image": "https://elma2024.000webhostapp.com/images/products/z5191514039785_255f5ac379ccb6cc10b2137b703f6f74.jpg",
+            "images": [
+                "https://elma2024.000webhostapp.com/images/products/z5191514034331_4f8368dccdabb05a5d562526485649c4.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191514019194_554a4918492bff1d86191a5672766575.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191514012898_b47ebff8429f9816b4419ccfcca7420b.jpg"
+            ],
+            "quantity": 100,
+            "category": { "$oid": "65d85632f18239ff9bcbcd31" },
+            "isBestSeller": false
+        },
+        {
+            "_id": { "$oid": "65db0b69f08a93058c07f07f" },
+            "name": "Google Tivi Xiaomi A 4K 65 inch L65M8-A2SEA",
+            "description": "- Bộ xử lý Mali G52-MP2\n- Công nghệ Dolby Vision\n- Wide Color Gamut\n- Công nghệ Dolby Audio, DTS-X và DTS Virtual\n- Google Assistant có tiếng Việt",
+            "price": 12790000,
+            "brand": "XIAOMI",
+            "rating": 4.3,
+            "numberReviews": 0,
+            "image": "https://elma2024.000webhostapp.com/images/products/z5191513994279_f2ba865a73e15d697e6aad6fd58e7830.jpg",
+            "images": [
+                "https://elma2024.000webhostapp.com/images/products/z5191513993194_5c1c747a568cb65d88bb76fe5f358714.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191513979542_e69bc298edc7571c533a34cb50d2ffbe.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191513979541_a251139af925a0e24d1f303759f76de8.jpg"
+            ],
+            "quantity": 100,
+            "category": { "$oid": "65d85632f18239ff9bcbcd31" },
+            "isBestSeller": false
+        },
+        {
+            "_id": { "$oid": "65db0b69f08a93058c07f080" },
+            "name": "Smart Tivi LG 4K 55 inch 55UQ7050PSA",
+            "description": "- Kích thước: 55\"\n- Độ phân giải: 3840 x 2160 / Ultra HD (4K)\n- Hệ điều hành: WebOS 23\n- Kết nối mạng: LAN, WiFi, Bluetooth\n- Cổng xuất hình: 3 x HDMI",
+            "price": 9490000,
+            "brand": "LG",
+            "rating": 4.5,
+            "numberReviews": 0,
+            "image": "https://elma2024.000webhostapp.com/images/products/z5191513963782_2aa96f748af6e217427fd9aa9d600678.jpg",
+            "images": [
+                "https://elma2024.000webhostapp.com/images/products/z5191513955032_d945fa15b07e89faf728650b8795e410.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191513944558_0a4283fb87ea68aa0b8c6f43f637fd94.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191513933655_032ca2ec1822fe55a346f0e5a1c307ed.jpg"
+            ],
+            "quantity": 100,
+            "category": { "$oid": "65d85632f18239ff9bcbcd31" },
+            "isBestSeller": false
+        },
+        {
+            "_id": { "$oid": "65db0b69f08a93058c07f081" },
+            "name": "Smart Tivi Samsung 4K Neo QLED 75 inch QA75QN90C",
+            "description": "- Kích thước: 75\"\n- Độ phân giải: 3841 x 2160 / Ultra HD 4K\n- Hệ điều hành: Tizen\n- Kết nối mạng: LAN, WiFi, Bluetooth\n- Cổng xuất hình: 4 x HDMI",
+            "price": 79990000,
+            "brand": "SAMSUNG",
+            "rating": 4.7,
+            "numberReviews": 0,
+            "image": "https://elma2024.000webhostapp.com/images/products/z5191513930579_5b0c75aa044d1ed3272ac2939c845348.jpg",
+            "images": [
+                "https://elma2024.000webhostapp.com/images/products/z5191513914391_16e4f7934ea3c1959057dd98dde264ab.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191513912251_25e271e50480396fba39d67bf8e6eb05.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191513895369_d973fd55dd2387faab1115716253adf9.jpg"
+            ],
+            "quantity": 100,
+            "category": { "$oid": "65d85632f18239ff9bcbcd31" },
+            "isBestSeller": false
+        },
+        {
+            "_id": { "$oid": "65db0b69f08a93058c07f082" },
+            "name": "Smart Tivi Samsung 4K QLED 85 inch QA85Q80C",
+            "description": "- Kích thước: 85\"\n- Độ phân giải: 3840 x 2160 / Ultra HD (4K)\n- Hệ điều hành: Tizen\n- Kết nối mạng: WiFi, LAN, Bluetooth\n- Cổng xuất hình: 4 x HDMI",
+            "price": 69100000,
+            "brand": "SAMSUNG",
+            "rating": 4.6,
+            "numberReviews": 0,
+            "image": "https://elma2024.000webhostapp.com/images/products/z5191513888207_e68a7960da80c3647a277cdf13fa56f3.jpg",
+            "images": [
+                "https://elma2024.000webhostapp.com/images/products/z5191513868689_8e8a1e2d4bb7e1122e5d9f5141062352.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191513859866_55c0a20a014f3a6590cd9eb81f594460.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191513840413_2600c08c0d28a0e2fb8e07b97b6e471b.jpg"
+            ],
+            "quantity": 100,
+            "category": { "$oid": "65d85632f18239ff9bcbcd31" },
+            "isBestSeller": false
+        },
+        {
+            "_id": { "$oid": "65db0b69f08a93058c07f083" },
+            "name": "Google Tivi TCL 4K 65 inch 65P745",
+            "description": "- Bộ xử lý AiPQ Engine 3.0\n- Công nghệ Dolby Vision\n- Công nghệ âm thanh Dolby Atmos\n- Công nghệ Game Accelerator\n- Công nghệ AMD FreeSync\n- Google Assistant",
+            "price": 15470000,
+            "brand": "TCL",
+            "rating": 4.7,
+            "numberReviews": 0,
+            "image": "https://elma2024.000webhostapp.com/images/products/z5191513840412_bc72a46d3c2f48d8a5b3dca7e8a73f03.jpg",
+            "images": [
+                "https://elma2024.000webhostapp.com/images/products/z5191513829605_7c3c107ed856980d4667ad2f2c316148.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191513819808_562b31311a92b7783f7859eff49b86fd.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191513808715_123d751a29bc40f269fe57d412ec85ec.jpg"
+            ],
+            "quantity": 100,
+            "category": { "$oid": "65d85632f18239ff9bcbcd31" },
+            "isBestSeller": false
+        },
+        {
+            "_id": { "$oid": "65db0b69f08a93058c07f084" },
+            "name": "Smart Tivi Samsung 4K QLED 85 inch QA85Q60B",
+            "description": "- Kích thước: 85\"\n- Độ phân giải: 3840 x 2160 / Ultra HD (4K)\n- Hệ điều hành: Tizen\n- Kết nối mạng: LAN, WiFi, Bluetooth\n- Cổng xuất hình: 3 x HDMI",
+            "price": 42540000,
+            "brand": "SAMSUNG",
+            "rating": 4.2,
+            "numberReviews": 0,
+            "image": "https://elma2024.000webhostapp.com/images/products/z5191513808715_123d751a29bc40f269fe57d412ec85ec.jpg",
+            "images": [
+                "https://elma2024.000webhostapp.com/images/products/z5191513792737_db8d67494ed5fe7d67d81ce8c35dec57.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191513791814_635d1e054f2349b6bf194292c12529ab.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191513788746_69c61a4cf71d90e7d7d9788b78ddadc3.jpg"
+            ],
+            "quantity": 100,
+            "category": { "$oid": "65d85632f18239ff9bcbcd31" },
+            "isBestSeller": false
+        }
+    ],
+
+    "smart wacht": [
+        {
+            "_id": { "$oid": "65db0b69f08a93058c07f085" },
+            "name": "Đồng hồ thông minh Garmin Fenix 7 Saphhire, Solar ĐH GPS, SEA (010-02540-47)",
+            "description": "- Thiết kế thể thao siêu bền, có màn hình lớn 1,3 inch hỗ trợ sạc bằng năng lượng mặt trời với kích thước 47 mm.\n- Đồng hồ được kiểm tra theo các tiêu chuẩn quân sự của Hoa Kỳ về khả năng chống nhiệt, chống sốc và chống nước.\n- Tăng cường pin từ ánh sáng mặt trời để bạn có thể sử dụng lâu hơn giữa các lần sạc.\n- Biết rõ hơn với nhịp tim dựa trên cổ tay và Pulse Ox.\n- Sạc bằng năng lượng mặt trời mang lại thời lượng pin lên đến 22 ngày ở chế độ đồng hồ thông minh.",
+            "price": 19900000,
+            "brand": "GARMIN",
+            "rating": 4.6,
+            "numberReviews": 0,
+            "image": "https://elma2024.000webhostapp.com/images/products/z5191527255881_f0fa26afcdf32259c84ee5ed42a1b64c.jpg",
+            "images": [
+                "https://elma2024.000webhostapp.com/images/products/z5191527246030_82bc2be7ee4e8a2631158d564e0b9a55.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191527238231_e5f79482af29c0637d72e9927dc3e15b.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191527184520_a6d79dc12992533a7b33a47909e1095b.jpg"
+            ],
+            "quantity": 100,
+            "category": { "$oid": "65d8563af18239ff9bcbcd33" },
+            "isBestSeller": false
+        },
+        {
+            "_id": { "$oid": "65db0b69f08a93058c07f086" },
+            "name": "Đồng hồ Apple Watch Ultra 2 4G 49mm (Vỏ Titan Dây Silicone White) (MREJ3VN/A)",
+            "description": "- Màn hình: OLED, 1.92 inch\n- Theo dõi sức khỏe: Tính quãng đường chạy, Điện tâm đồ, Đếm số bước chân\n- Thông báo ứng dụng: Tin nhắn, Cuộc gọi, Messenger (Facebook)\n- Thời lượng pin lên đến 36 giờ ở chế độ thông thường\n- Đạt chuẩn chống nước 10 ATM\n- Khả năng định vị chuẩn xác, đảm bảo an toàn ở bất kỳ đâu\n- Nghe gọi thông qua eSIM",
+            "price": 21490000,
+            "brand": "APPLE",
+            "rating": 4.9,
+            "numberReviews": 0,
+            "image": "https://elma2024.000webhostapp.com/images/products/z5191527140679_e994e592989c18a4dc1c8be746025bde.jpg",
+            "images": [
+                "https://elma2024.000webhostapp.com/images/products/z5191527125089_be0b081566dc6bf9443222b192b560fd.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191527081432_10cd4e62d11f95cdd9eff0929db54d72.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191527081431_65ac5520120c2b5d2052214c62444dad.jpg"
+            ],
+            "quantity": 100,
+            "category": { "$oid": "65d8563af18239ff9bcbcd33" },
+            "isBestSeller": false
+        },
+        {
+            "_id": { "$oid": "65db0b69f08a93058c07f087" },
+            "name": "Đồng hồ Apple Watch Series 9 GPS 45mm Pink (Vỏ Nhôm Dây Vải) (MR9J3SA/A)",
+            "description": "- Màn hình Retina Luôn Bật sáng hơn với mặt trước bằng kính chống nứt, bền bỉ\n- Nhận thông tin chuyên sâu về sức khỏe thể chất và tinh thần của bạn, bao gồm nhịp tim, tâm trạng và hơn thế nữa\n- Với các chỉ số tập luyện và chế độ xem tiên tiến\n- S9 SiP hoàn toàn mới mang đến một cách mới kỳ diệu để tương tác với đồng hồ của bạn\n- Các tính năng an toàn đột phá bao gồm SOS Khẩn Cấp, Phát Hiện Ngã và Phát Hiện Va Chạm",
+            "price": 10490000,
+            "brand": "APPLE",
+            "rating": 4.8,
+            "numberReviews": 0,
+            "image": "https://elma2024.000webhostapp.com/images/products/z5191527071788_39cbb7521dff61905e5ea801abad2a36.jpg",
+            "images": [
+                "https://elma2024.000webhostapp.com/images/products/z5191527071787_22400e03dae073ae9128a8b1dbfb8e57.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191527063808_302ff169373a831418409426dda0eab7.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191527054155_b69081663efa17b2c76210ab132b3f0b.jpg"
+            ],
+            "quantity": 100,
+            "category": { "$oid": "65d8563af18239ff9bcbcd33" },
+            "isBestSeller": false
+        },
+        {
+            "_id": { "$oid": "65db0b69f08a93058c07f088" },
+            "name": "Đồng hồ Apple Watch Series 9 4G 45mm Midnight (Vỏ Nhôm Dây Silicone - S/M) (MRMC3SA/A)",
+            "description": "- Màn hình Retina Luôn Bật sáng hơn với mặt trước bằng kính chống nứt, bền bỉ\n- Nhận thông tin chuyên sâu về sức khỏe thể chất và tinh thần của bạn, bao gồm nhịp tim, tâm trạng và hơn thế nữa\n- Với các chỉ số tập luyện và chế độ xem tiên tiến\n- S9 SiP hoàn toàn mới mang đến một cách mới kỳ diệu để tương tác với đồng hồ của bạn\n- Các tính năng an toàn đột phá bao gồm SOS Khẩn Cấp, Phát Hiện Ngã và Phát Hiện Va Chạm",
+            "price": 12990000,
+            "brand": "APPLE",
+            "rating": 4.6,
+            "numberReviews": 0,
+            "image": "https://elma2024.000webhostapp.com/images/products/z5191527041906_3d088639bdd7251c2bc98c653630a350.jpg",
+            "images": [
+                "https://elma2024.000webhostapp.com/images/products/z5191527033595_079951dfb693f9810e1332678e5d021a.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191527033594_9cb1ad2278e05473d86f2fcdc3a0d0dd.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191527024106_e6349728655cc468669918ef24087a3f.jpg"
+            ],
+            "quantity": 100,
+            "category": { "$oid": "65d8563af18239ff9bcbcd33" },
+            "isBestSeller": false
+        },
+        {
+            "_id": { "$oid": "65db0b69f08a93058c07f089" },
+            "name": "Đồng hồ Apple Watch SE GPS 40mm Midnight (Vỏ Nhôm Dây Silicone - S/M) (MR9X3SA/A)",
+            "description": "- Sở hữu màn hình Rentina 1000 nits hiển thị tốt kể cả trong điều kiện trời nắng\n- Thao tác mượt mà với chip S8 SiP cùng hệ điều hành WatchOS mới nhất\n- Phát hiện va chạm, tự động phát cảnh báo và gửi vị trí cho người thân khi phát hiện tai nạn\n- Dễ dàng theo dõi sức khoẻ với chức năng: cảm biến nhịp tim, theo dõi giấc ngủ, chu kỳ kinh nguyệt,...\n- Dây đeo cao su êm ái, ôm tay cho cảm giác thoải mái",
+            "price": 5990000,
+            "brand": "APPLE",
+            "rating": 4.7,
+            "numberReviews": 0,
+            "image": "https://elma2024.000webhostapp.com/images/products/z5191527013774_0226f5cb042dfa629807a57176b84d9d.jpg",
+            "images": [
+                "https://elma2024.000webhostapp.com/images/products/z5191527005631_6f42c88ae835bc025201ad79e2371972.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191526996987_a2b3b54c564858a9302af91a38bd061c.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191526988262_fe7645dc52214401257216380884b80f.jpg"
+            ],
+            "quantity": 100,
+            "category": { "$oid": "65d8563af18239ff9bcbcd33" },
+            "isBestSeller": false
+        },
+        {
+            "_id": { "$oid": "65db0b69f08a93058c07f08a" },
+            "name": "Đồng hồ thông minh Garmin Venu 2S, GPS, Wi-Fi, Vàng Champagne, KOR/SEA, 010-02429-71",
+            "description": "- Theo dõi sát sao các thống kê sức khỏe cụ thế và hiểu rõ hơn về trạng thái thể chất mọi lúc\n- Đa dạng hóa bài tập với hơn 25 bộ môn thể thao được tải sẵn.\n- Cá nhân hóa kế hoạch tập luyện theo khả năng của riêng bạn với Garmin Coach. Đồng thời, giãn cơ thú vị hơn với các bài tập động được cài sẵn ngay trên đồng hồ\n- Lưu trữ nhạc trực tiếp trên Venu 2S và tự tin bỏ lại chiếc điện thoại cồng kềnh phía sau.",
+            "price": 9990000,
+            "brand": "GARMIN",
+            "rating": 4.7,
+            "numberReviews": 0,
+            "image": "https://elma2024.000webhostapp.com/images/products/z5191526978675_d2276e320869e60410d7589011d4a1d6.jpg",
+            "images": [
+                "https://elma2024.000webhostapp.com/images/products/z5191526976875_594cc56cd39d4f87c0f31e31eea3d589.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191526969187_15da7321ff16ddd511f28041f9dfcb49.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191526957447_c67b2d69f20ff5e5de5d19f68db951c2.jpg"
+            ],
+            "quantity": 100,
+            "category": { "$oid": "65d8563af18239ff9bcbcd33" },
+            "isBestSeller": false
+        },
+        {
+            "_id": { "$oid": "65db0b69f08a93058c07f08b" },
+            "name": "Đồng hồ thông minh Samsung Galaxy Watch 5 LTE 44mm (Xám) (SM-R915FZAAXXV)",
+            "description": "- Tự kết nối internet, điều khiển, nghe, gọi mà không cần đến smartphone\n- Bền bỉ, sang trọng với khung viền Titan, mặt đồng hồ tinh thể Sapphire\n- Màn hình SUPER AMOLED 1.4 inch cho hiển thị sống động và sắc nét\n- Hệ thống GPS, Glonass, Galileo, BDS dẫn đường mọi cuộc phiêu lưu\n- Theo dõi sức khỏe toàn diện: nhịp tim, lượng calo, mức độ stress,v.v\n- Bộ vi xử lý Exynos W920 hiệu suất mạnh mẽ, tiết kiệm pin - Kháng nước 5ATM",
+            "price": 7650000,
+            "brand": "SAMSUNG",
+            "rating": 4.6,
+            "numberReviews": 0,
+            "image": "https://elma2024.000webhostapp.com/images/products/z5191526949025_8ccad04244ad11161dad2af80164a218.jpg",
+            "images": [
+                "https://elma2024.000webhostapp.com/images/products/z5191526957446_c647a9efb1d4820a83e6f4655660960d.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191526942564_a49939a466e08e7adc2089d3f682c82c.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191526934430_c4bfe5617c8960f15dcf8fcdb3db56a7.jpg"
+            ],
+            "quantity": 100,
+            "category": { "$oid": "65d8563af18239ff9bcbcd33" },
+            "isBestSeller": false
+        },
+        {
+            "_id": { "$oid": "65db0b69f08a93058c07f08c" },
+            "name": "Đồng hồ thông minh ASUS VivoWatch SP (HC-A05)",
+            "description": "- Cảm biến nhịp tim ECG cho phép đo huyết áp và điện tâm đồ ngay trên đồng hồ\n- Trang bị công nghệ NFC giúp mở khoá thiết bị thông minh như khoá cửa\n- Hỗ trợ các tính năng theo dõi sức khoẻ:Đo oxy trong máu,đo mức độ stress,lượng calo tiêu thụ...\n- Viên pin 200mah, sạc đầy trong 30 phút cho thời gian sử dụng lên đến 10 ngày\n- Thoải mái bơi lội với chuẩn chống nước 5 ATM\n- Tích hợp hệ thống GPS trong đồng hồ,theo dõi quãng đường luyện tập mà không cần kết nối với điện thoại",
+            "price": 7490000,
+            "brand": "ASUS",
+            "rating": 4.7,
+            "numberReviews": 0,
+            "image": "https://elma2024.000webhostapp.com/images/products/z5191526921568_3ab20bd9778b41a69b4f3c41c9450102.jpg",
+            "images": [
+                "https://elma2024.000webhostapp.com/images/products/z5191526915479_c2ffd0410bedcecb8b9e681ebe470dc6.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191526906467_8791dfa63c65789a927663d4f843e54f.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191526900625_1c6cd70569bbd0b705795fa2e74442b2.jpg"
+            ],
+            "quantity": 100,
+            "category": { "$oid": "65d8563af18239ff9bcbcd33" },
+            "isBestSeller": false
+        },
+        {
+            "_id": { "$oid": "65db0b69f08a93058c07f08d" },
+            "name": "Đồng hồ thông minh Asus VivoWatch 5",
+            "description": "- Đo huyết áp, theo dõi tim mạch\n- Theo dõi sức khỏe 24/7 để đưa ra phác đồ tham khảo cho bác sĩ tư vấn điều trị tim mạch và huyết áp thông qua App HealthConnect\n- Theo dõi hô hấp và nhiệt độ\n- Đo lường chất lượng giấc ngủ\n- Theo dõi luyện tập thể dục\n- Thông tin chi tiết về sức khỏe phù hợp từng người dùng\n- Thiết kế thời trang với vỏ thép không gỉ\n- Dây đeo có thể tháo lắp nhanh, thời lượng pin lên đến 14 ngày",
+            "price": 5490000,
+            "brand": "ASUS",
+            "rating": 4.3,
+            "numberReviews": 0,
+            "image": "https://elma2024.000webhostapp.com/images/products/z5191526890659_f1bb86d74c2b5be449d1cc9818cce14a.jpg",
+            "images": [
+                "https://elma2024.000webhostapp.com/images/products/z5191526890658_b1279877cc4a0b88dcfa8ab808bb657b.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191526877171_19f492179a41b7d5235e8c2acdd876f3.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191526877170_d6503d4b579097a5939786018fb8c9e7.jpg"
+            ],
+            "quantity": 100,
+            "category": { "$oid": "65d8563af18239ff9bcbcd33" },
+            "isBestSeller": false
+        },
+        {
+            "_id": { "$oid": "65db0b69f08a93058c07f08e" },
+            "name": "Đồng hồ thông minh Samsung Galaxy Watch 4 40mm (Vàng) (SM-R860NZDAXXV)",
+            "description": " - Thiết kế liền mạch, sành điệu Kính cường lực Gorilla Glass Dx+, dây silicone\n- Cấu hình mạnh mẽ Chip Exynos W920 tốc độ nhanh\n- Định vị GPS chính xác Cảm biến GPS có độ nhạy cao\n- Các tiện ích sức khỏe Đo nhịp tim, SpO2, theo dõi giấc ngủ,...\n-Sạc không dây tiện lợi Dung lượng pin 247 mAh, sử dụng trong 1.5 ngày",
+            "price": 6190000,
+            "brand": "SAMSUNG",
+            "rating": 4.8,
+            "numberReviews": 0,
+            "image": "https://elma2024.000webhostapp.com/images/products/z5191526855007_a78b6d998bcca4404a5893a81ce6cd10.jpg",
+            "images": [
+                "https://elma2024.000webhostapp.com/images/products/z5191526862276_8c0e6defddd7e5ee36995a505504fc43.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191526852226_7651d7be42c468563761066d67497026.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191526849764_7cb5d6e8ba0a244421eb1f88042a2d0c.jpg"
+            ],
+            "quantity": 100,
+            "category": { "$oid": "65d8563af18239ff9bcbcd33" },
+            "isBestSeller": false
+        }
+    ],
+
+    "charger": [
+        {
+            "_id": { "$oid": "65db0b69f08a93058c07f08f" },
+            "name": "Bộ sạc nhanh Samsung 45W Type C, Đen (Kèm cáp) (EP-T4510XBEGWW)",
+            "description": "- Thiết kế nhỏ gọn, sang trọng dễ dang mang theo để sử dụng\n- Sở hữu công nghệ sạc siêu nhanh PD – Power Delivery công suất lên đến 45W\n- Nguồn điện vào : 100 - 240v\n- Output : 2.77A(9V) / PPS : 3.0A(3.3-5.9V) or 2.25A(3.3-11.0V)",
+            "price": 1190000,
+            "brand": "SAMSUNG",
+            "rating": 4.9,
+            "numberReviews": 0,
+            "image": "https://elma2024.000webhostapp.com/images/products/z5191536394138_20ed6c2769102adb2ad52f6f7b1c900e.jpg",
+            "images": [
+                "https://elma2024.000webhostapp.com/images/products/z5191536396393_87636d27ac53c23daec86e00458ff9f4.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191536396394_cf0fa2389a7704e9c465ca0f67d1241a.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191536385503_ac06dc4b275ed2a1d3ba9df1e3d42691.jpg"
+            ],
+            "quantity": 100,
+            "category": { "$oid": "65d85643f18239ff9bcbcd35" },
+            "isBestSeller": false
+        },
+        {
+            "_id": { "$oid": "65db0b69f08a93058c07f090" },
+            "name": "Sạc Laptop Asus 19V-1.75A-33W (Đầu số 4) (4.0mm*1.35mm) (NQ)",
+            "description": "- Bộ cấp nguồn/ Adaptor Asus 19V-1.75A (Đầu số 4)",
+            "price": 410000,
+            "brand": "ASUS",
+            "rating": 4.8,
+            "numberReviews": 0,
+            "image": "https://elma2024.000webhostapp.com/images/products/z5191536376237_11878361fb62d30d89fb32ef3960ce17.jpg",
+            "images": [
+                "https://elma2024.000webhostapp.com/images/products/z5191536367862_16775ebdc1faa086eed5c7417352ba65.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191536357039_2c197250abc2406ead55285810cecdf8.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191536348745_4a82039bc085c3b0b075f477adc6c66d.jpg"
+            ],
+            "quantity": 100,
+            "category": { "$oid": "65d85643f18239ff9bcbcd35" },
+            "isBestSeller": false
+        },
+        {
+            "_id": { "$oid": "65db0b69f08a93058c07f091" },
+            "name": "Sạc Macbook Apple Zin USB-C 61W 2016",
+            "description": "Bộ cấp nguồn Adaptor Apple 2016 61W USB-C Zin",
+            "price": 1867000,
+            "brand": "APPLE",
+            "rating": 4.9,
+            "numberReviews": 0,
+            "image": "https://elma2024.000webhostapp.com/images/products/z5191536321580_146cb83093451506378624142aef56ee.jpg",
+            "images": [
+                "https://elma2024.000webhostapp.com/images/products/z5191536331767_ca80faa9919c5ad12dbd3ccc2c9d501d.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191536340084_d658e61ebc72f015a730a4cfc0da970e.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191536301194_48b4f1e24fa73c096e2d4f2c1aae06f2.jpg"
+            ],
+            "quantity": 100,
+            "category": { "$oid": "65d85643f18239ff9bcbcd35" },
+            "isBestSeller": false
+        },
+        {
+            "_id": { "$oid": "65db0b69f08a93058c07f092" },
+            "name": "Bộ củ cáp sạc TypeC to Lightning Remax RP-U68 2 cổng sạc nhanh (PD20w + QC18w)",
+            "description": "- Kích thước nhỏ gọn: 5.79 x 2.73 x 4.26 cm - 0.04 Kg\n- Chất liệu vỏ nhựa PC bền bĩ, thân thiện môi trường\n- Công suất ra tối đa đến 20W (USB-A 18W, USB-C 20W)",
+            "price": 250000,
+            "brand": "REMAX",
+            "rating": 4.3,
+            "numberReviews": 0,
+            "image": "https://elma2024.000webhostapp.com/images/products/z5191536318628_956bb9aba4b05e68f171a4a7d60ef714.jpg",
+            "images": [
+                "https://elma2024.000webhostapp.com/images/products/z5191536284867_3a2988f364553d318bc41d842492798a.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191536284868_5312e2a3c4c174ebab88ccb68e82aac9.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191536301193_c44a11323065907e88eb9259359361b7.jpg"
+            ],
+            "quantity": 100,
+            "category": { "$oid": "65d85643f18239ff9bcbcd35" },
+            "isBestSeller": false
+        },
+        {
+            "_id": { "$oid": "65db0b69f08a93058c07f093" },
+            "name": "Sạc điện thoại Belkin 12W USB A CA002dqWH (Trắng)",
+            "description": "- Thiết kế nhỏ gọn, nhiều màu sắc trẻ trung, dễ dàng cất giữ khi đi du lịch.\n- Trọng lượng nhẹ, dễ dàng mang theo bên người.\n- Sử dụng đơn giản, bạn chỉ việc cắm cáp USB và thiết bị vào Adapter là có thể thoải mái sạc.\n- Sạc điện có thể dùng cho smartphone và tablet.",
+            "price": 329000,
+            "brand": "BELKIN",
+            "rating": 4.5,
+            "numberReviews": 0,
+            "image": "https://elma2024.000webhostapp.com/images/products/z5191536270567_e225ab27fe3cc823040fa0f1f62ab5bd.jpg",
+            "images": [
+                "https://elma2024.000webhostapp.com/images/products/z5191536269755_14dd0aafd10db7ec8a0ac7552c7f9835.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191536253872_4bc2f3bf9d3156344013103341c577b9.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191536253871_9be395383d24bee9249897bf90adc57b.jpg"
+            ],
+            "quantity": 100,
+            "category": { "$oid": "65d85643f18239ff9bcbcd35" },
+            "isBestSeller": false
+        },
+        {
+            "_id": { "$oid": "65db0b69f08a93058c07f094" },
+            "name": "Sạc nhanh Pisen Quick ice Crystal PD 30W (Lightning)",
+            "description": "- Giao diện Type-C\n- Công suất tổng 30W\n- Công nghệ sạc nhanh PD\n- Kiểm soát nhiệt độ\n- Thiết kế nhỏ gọn nhẹ",
+            "price": 649000,
+            "brand": "PISEN",
+            "rating": 4.8,
+            "numberReviews": 0,
+            "image": "https://elma2024.000webhostapp.com/images/products/z5191536241880_d27214831115a4b7716a3e321149d5ec.jpg",
+            "images": [
+                "https://elma2024.000webhostapp.com/images/products/z5191536241879_0ca586dd7a7a51e7f2f1bcc663d08620.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191536224754_8860bc200f21050b80db9dc95b44e1a2.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191536212249_27c4c6d738f8a92fbbabf6aa07ea61e4.jpg"
+            ],
+            "quantity": 100,
+            "category": { "$oid": "65d85643f18239ff9bcbcd35" },
+            "isBestSeller": false
+        },
+        {
+            "_id": { "$oid": "65db0b69f08a93058c07f095" },
+            "name": "Sạc điện thoại Belkin 108W USB-C PD +2xUSB-A GaN WCH010dqWHJP (Trắng)",
+            "description": "- Bộ sạc GaN 4 cổng bao gồm 2x cổng USB-C và 2x USB-A\n- Sạc tối đa 4 thiết bị với tổng công suất đầu ra 108W\n- Công nghệ GaN tích hợp cung cấp năng lượng cao, sạc hiệu quả\n- Chia sẻ nguồn điện thông minh nhận biết nhu cầu điện năng và phân phối đầu ra phù hợp cho tối đa 4 thiết bị\n-Hỗ trợ nhiều loại thiết bị bao gồm máy tính xách tay, điện thoại thông minh, máy tính bảng, ... của Samsung, Apple, ...",
+            "price": 1990000,
+            "brand": "BELKIN",
+            "rating": 4.7,
+            "numberReviews": 0,
+            "image": "https://elma2024.000webhostapp.com/images/products/z5191536212249_27c4c6d738f8a92fbbabf6aa07ea61e4.jpg",
+            "images": [
+                "https://elma2024.000webhostapp.com/images/products/z5191536203039_3eb8f4fbcc8aa94e8ea0137a210cba92.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191536193732_3b67a03fd85fcdd0c58c8dc3f85a7d93.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191536184466_2aa67f715cb95131503f75a348239794.jpg"
+            ],
+            "quantity": 100,
+            "category": { "$oid": "65d85643f18239ff9bcbcd35" },
+            "isBestSeller": false
+        },
+        {
+            "_id": { "$oid": "65db0b69f08a93058c07f096" },
+            "name": "Cáp sạc Apple USB-C dây dù Woven Charge Cable (1m) (MQKJ3ZA/A)",
+            "description": "- Cáp chính hãng tương thích với các thiết bị Apple\n- Dây bện vải chắc chắn chống đứt gãy\n- Hỗ trợ sạc nhanh qua cổng Type-C\n- Độ dài 1m phù hợp để dùng ở nhiều vị trí",
+            "price": 500000,
+            "brand": "APPLE",
+            "rating": 5,
+            "numberReviews": 0,
+            "image": "https://elma2024.000webhostapp.com/images/products/z5191536177422_1edf01b68e13eeb1c75843d9b468d67f.jpg",
+            "images": [
+                "https://elma2024.000webhostapp.com/images/products/z5191536168638_156787c9ed54db420758dd1557c3b4f2.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191536160987_56d08887921dc28145eceaff2a370eb3.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191536160986_81a1f138d39f86a8d7a9669ff60fcd56.jpg"
+            ],
+            "quantity": 100,
+            "category": { "$oid": "65d85643f18239ff9bcbcd35" },
+            "isBestSeller": false
+        },
+        {
+            "_id": { "$oid": "65db0b69f08a93058c07f097" },
+            "name": "Bộ sạc Apple Magsafe Charger to USB-C Cable 1m",
+            "description": "Bộ Sạc MagSafe khiến cho việc sạc không dây trở nên cực kỳ dễ dàng. Các nam châm cân chỉnh vị trí sạc này gắn với iPhone 12 trở lên, giúp sạc không dây nhanh hơn với công suất lên đến 15W.\nBộ sạc MagSafe tương thích với bộ sạc Qi, vì vậy bộ sạc này có thể được dùng để sạc không dây iPhone 8 hoặc các phiên bản cao hơn cũng như các phiên bản AirPods có hộp sạc không dây, tương tự như cách sử dụng các bộ sạc không dây chuẩn Qi.\nKhả năng cân chỉnh vị trí bằng nam châm chỉ có ở các phiên bản iPhone 12, iPhone 13, iPhone 14 và iPhone 15.",
+            "price": 1199000,
+            "brand": "APPLE",
+            "rating": 4.7,
+            "numberReviews": 0,
+            "image": "https://elma2024.000webhostapp.com/images/products/z5191536152066_8134aa4313f04a3b787fe99f23a818b1.jpg",
+            "images": [
+                "https://elma2024.000webhostapp.com/images/products/z5191536144244_4ae1d7281775a098d94c4ca325915509.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191536135557_2c5da247f4acd002d7a15f7983bc9e71.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191536124522_9d728de3c8115bd18052570067b943ce.jpg"
+            ],
+            "quantity": 100,
+            "category": { "$oid": "65d85643f18239ff9bcbcd35" },
+            "isBestSeller": false
+        },
+        {
+            "_id": { "$oid": "65db0b69f08a93058c07f098" },
+            "name": "Sạc Laptop Asus 19V-2.37A",
+            "description": "- Bộ cấp nguồn/ Adaptor Asus 19V-2.37A",
+            "price": 400000,
+            "brand": "ASUS",
+            "rating": 4.8,
+            "numberReviews": 0,
+            "image": "https://elma2024.000webhostapp.com/images/products/z5191536117512_a9bcd2526a73e6371b6092b97977b554.jpg",
+            "images": [
+                "https://elma2024.000webhostapp.com/images/products/z5191536107032_4f5801a740e0d0144c9c74a3b1deaac3.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191536098201_3122c46a363439ba21bd7fcb0a6dc43f.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191536095456_8362caca4cfbfd1190180be6d4068b46.jpg"
+            ],
+            "quantity": 100,
+            "category": { "$oid": "65d85643f18239ff9bcbcd35" },
+            "isBestSeller": false
+        }
+    ],
+
+    "backup charger": [
+        {
+            "_id": { "$oid": "65db0b69f08a93058c07f099" },
+            "name": "Pin Dự Phòng Mazer Infinite Boost Mag Stand Mini Qi Wireless 10000mAh/15W (M-MagAir12)",
+            "description": "- Sạc điện thoại với công suất PD 20W - QC3.0, Qi Wireless 15W.\n- Kéo dài thời gian sử dụng điện thoại trong 2-3 ngày với dung lượng sạc 10.000mAh.\n- Nhỏ gọn, dễ mang theo khi di chuyển.\n- Tích hợp chân chống tiện lợi.\n- Công suất 20W được cung cấp qua cả cổng USB-A và USB-C.\n- Chế độ M-Charge cho thiết bị tiêu thụ điện năng thấp hơn, sạc hít dính vào điện thoại.",
+            "price": 990000,
+            "brand": "MAZER",
+            "rating": "4.9/5",
+            "numberReviews": 0,
+            "image": "https://elma2024.000webhostapp.com/images/products/z5191574077638_d7ece0ea4c1ccf6a980bf341f1e362d3.jpg",
+            "images": [
+                "https://elma2024.000webhostapp.com/images/products/z5191574070797_eb14a23cfb74f43848c7b2039f5e6a68.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191574042748_f2693c432597c1456c0db1b332ae796e.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191574040347_51e0d40a461443f8798de02aa52fe240.jpg"
+            ],
+            "quantity": 100,
+            "category": { "$oid": "65d8564cf18239ff9bcbcd37" },
+            "isBestSeller": false
+        },
+        {
+            "_id": { "$oid": "65db0b69f08a93058c07f09a" },
+            "name": "Pin sạc dự phòng Xiaomi 33W Power Bank 10000mAh Pocket Edition Pro -BHR5785GL (Xanh)",
+            "description": "-  Thời gian sạc đầy: Khoảng 2.7 giờ sử dụng bộ sạc 5V/2A, 5.2 giờ sử dụng bộ sạc nhanh 18W trở lên\n-  Lõi pin: pin lithium-ion\n- Đầu vào: 5V/3V,9V/2.5A, 12V/1.8A\n- Đầu ra: USB-A tối đa: 5V/3V, 9V/2.23A, 12V/1.67A, 10V/2.25A;  Type-C tối đa: 5V/3V, 9V/2.23A, 12V/2.25V, 11V/3A\n- Khả năng tương thích với nhiều thiết bị MacBooks, tablets và Switches",
+            "price": 890000,
+            "brand": "XIAOMI",
+            "rating": "4.6",
+            "numberReviews": 0,
+            "image": "https://elma2024.000webhostapp.com/images/products/z5191574060056_3c6cc33efc869c4abe45714ba2c42bf1.jpg",
+            "images": [
+                "https://elma2024.000webhostapp.com/images/products/z5191574015634_1594b1aad081e1cbda240094f74df023.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191574024279_f9fcfdba0760a24a7a32b7bef8a5eb5f.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191574005422_107788794515cb1ed31c59e490bca7b7.jpg"
+            ],
+            "quantity": 100,
+            "category": { "$oid": "65d8564cf18239ff9bcbcd37" },
+            "isBestSeller": false
+        },
+        {
+            "_id": { "$oid": "65db0b69f08a93058c07f09b" },
+            "name": "Pin sạc dự phòng không dây Baseus Magnetic Mini Fast Charge Type-C Edition 10000mAh 30W - Màu trắng",
+            "description": "- Thiết kế nhỏ gọn, tiện dụng\n- Công nghệ sạc nhanh có dây với công suất 30W\n- Công nghệ sạc không dây Magsafe với công suất tối đa 15W\n- Đầu vào Type-C: 5V-3A, 9V-2A, 12V-1.5A\n- Đầu ra Type-C : 5V-3A, 9V-3A, 12V-2.5A, 15V-2A\n- Đầu ra iP: 5V-2.4A, 9V-2.22A, 12V-1.5A",
+            "price": 820000,
+            "brand": "BASEUS",
+            "rating": "4.9",
+            "numberReviews": 0,
+            "image": "https://elma2024.000webhostapp.com/images/products/z5191573984569_0132e8f49a83df71282be4c7ab46b3f8.jpg",
+            "images": [
+                "https://elma2024.000webhostapp.com/images/products/z5191573995108_87aafe51e6536c83afd214cbdeb97620.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191573963772_495ea10fca8abc6668ce991063abed4e.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191573946676_e9539bd996cb8760e24f3591faef60e8.jpg"
+            ],
+            "quantity": 100,
+            "category": { "$oid": "65d8564cf18239ff9bcbcd37" },
+            "isBestSeller": false
+        },
+        {
+            "_id": { "$oid": "65db0b69f08a93058c07f09c" },
+            "name": "Pin Sạc Dự Phòng Aukey PB-N42 (10000mAh/Black/Kèm Đèn Led 5V/2.1A)",
+            "description": "- Thương hiệu: Aukey - dung lượng: 10.000mAh.",
+            "price": 439000,
+            "brand": "AUKEY",
+            "rating": "4.5",
+            "numberReviews": 0,
+            "image": "https://elma2024.000webhostapp.com/images/products/z5191573935197_0bb205685bcaa6c9638c703352802baf.jpg",
+            "images": [
+                "https://elma2024.000webhostapp.com/images/products/z5191573922563_10c656b5ce47654c940cd904218e99ab.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191573915505_7f01d4b336947ccb86e6c75ae8d9f212.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191573907202_c58bbf4c8247f4cb461b6a33c7bd9a3c.jpg"
+            ],
+            "quantity": 100,
+            "category": { "$oid": "65d8564cf18239ff9bcbcd37" },
+            "isBestSeller": false
+        },
+        {
+            "_id": { "$oid": "65db0b69f08a93058c07f09d" },
+            "name": "Pin sạc dự phòng không dây Cheero Che-098 (6000mAh/ Đen)",
+            "description": "- Thương hiệu: Cheero \n- Dung lượng: 6000mAh \n- Tích hợp sạc không dây",
+            "price": 390000,
+            "brand": "CHEERO",
+            "rating": "4.3",
+            "numberReviews": 0,
+            "image": "https://elma2024.000webhostapp.com/images/products/z5191573897966_5238e7181bc17cd6b972e2e1e6e6f766.jpg",
+            "images": [
+                "https://elma2024.000webhostapp.com/images/products/z5191573868398_cdca7d133b94cf77ec6e4beb6ae12ff6.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191573876387_90cd76ef38ad1c7dc09642331b268c23.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191573882897_cd3661b1134a780f9cc5505140ed5cf6.jpg"
+            ],
+            "quantity": 100,
+            "category": { "$oid": "65d8564cf18239ff9bcbcd37" },
+            "isBestSeller": false
+        },
+        {
+            "_id": { "$oid": "65db0b69f08a93058c07f09e" },
+            "name": "Pin sạc dự phòng Baseus Bipow 10000mAh, 20W (Đen)",
+            "description": "- Màn hình LED tiện lợi, nhiều cổng kết nối\n- Pin sạc với thiết kế màu đen sang trọng \n- Sạc dự phòng Baseus Bipow cũng được trang bị một hệ thống cổng kết nối khá đa dạng với đầu vào Micro và USB-C trong khi đó đầu ra là USB-C, USB-1 và USB-2.\n- Sạc nhanh công suất 20W, tương thích nhiều thiết bị",
+            "price": 499000,
+            "brand": "BASEUS",
+            "rating": "4.7",
+            "numberReviews": 0,
+            "image": "https://elma2024.000webhostapp.com/images/products/z5191573857264_d8cb6a85260be66a9c048bde04c691f7.jpg",
+            "images": [
+                "https://elma2024.000webhostapp.com/images/products/z5191573845179_c2feaed59023c9f2dc11c04a02283d01.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191573822567_844dc72ae7f2cdfb9612d05fec416fde.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191573830659_2eea87a2a8e3ea2fbfebe7eb3788c961.jpg"
+            ],
+            "quantity": 100,
+            "category": { "$oid": "65d8564cf18239ff9bcbcd37" },
+            "isBestSeller": false
+        },
+        {
+            "_id": { "$oid": "65db0b69f08a93058c07f09f" },
+            "name": "Pin sạc dự phòng Energizer 20.000mAh/ 3.7V Li-Ion - UE20028PQGY (Xám)",
+            "description": "- Thiết kế vỏ ngoài bằng kim loại, thon dài & vô cùng chắc chắn. - Pin dung lượng cao 20,000 mAh, hỗ trợ 2 cổng USB và 1 cổng USB-C output giúp sạc 3 thiết bị cùng lúc - Tích hợp sạc nhanh 2 chiều Input & Output với cổng USB-C PD giúp tiết kiệm thời gian sạc",
+            "price": 1100000,
+            "brand": "Energizer",
+            "rating": "4.3",
+            "numberReviews": 0,
+            "image": "https://elma2024.000webhostapp.com/images/products/z5191573788646_0189b31819ef6584818b851aac3b580f.jpg",
+            "images": [
+                "https://elma2024.000webhostapp.com/images/products/z5191573768325_3c64f715f3adbb16090aaa547c442ba9.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191573768326_c7862190c1ede2f66177511a8d9dd85c.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191573754548_0c1e9606c37f21ca09ab3abd63bab3da.jpg"
+            ],
+            "quantity": 100,
+            "category": { "$oid": "65d8564cf18239ff9bcbcd37" },
+            "isBestSeller": false
+        },
+        {
+            "_id": { "$oid": "65db0b69f08a93058c07f0a0" },
+            "name": "Sạc dự phòng PISEN QUICK High Power Box 10000mAh 22.5W - OWN (Đen)",
+            "description": "- Đầu vào: Type c 5v2.4a 9v2a 12v1.5a , AC 100-240v 50/60hz 0.35a\n- Đầu ra : 5v3a max, công suất cực đại 22.5w\n- Chế độ sạc tường : Giao diện và cáp 5v2a, Tổng đầu ra 5v2a max\n- Công suất cực đại: 10W\n- Dung lượng pin: 10000maH - 37wh, 9200mah( mặc định) 34.04wh\n- Cơ chế bảo vệ: Bảo vệ quá tải, Quá áp, Quá dòng, Quá xả, Ngắn mạch, Quá nhiệt, Quá điện\n- Thời gian sạc: 2-4h ( bộ sạc 18w)\n- Giao thức hộ trợ : pd3.0, qc3.0, fcp, afc, apple2.4a và các giao thức khác",
+            "price": 690000,
+            "brand": "PISEN",
+            "rating": "4.7",
+            "numberReviews": 0,
+            "image": "https://elma2024.000webhostapp.com/images/products/z5191573727469_3862a9d2c32c74f78f2c5ab23de7c1f9.jpg",
+            "images": [
+                "https://elma2024.000webhostapp.com/images/products/z5191573747475_ee19968ba763ad5a9db219aa9a6e7f3c.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191573708418_6184944bee30bb95aa82fe87bc2a3f7e.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191573706274_2cf480557e039aa1b05868e2417c999a.jpg"
+            ],
+            "quantity": 100,
+            "category": { "$oid": "65d8564cf18239ff9bcbcd37" },
+            "isBestSeller": false
+        },
+        {
+            "_id": { "$oid": "65db0b69f08a93058c07f0a1" },
+            "name": "Sạc dự phòng PISEN QUICK High Power Box 10000mAh 22.5W - OWN (Đen)",
+            "description": "- Đầu vào: Type c 5v2.4a 9v2a 12v1.5a , AC 100-240v 50/60hz 0.35a\n- Đầu ra : 5v3a max, công suất cực đại 22.5w\n- Chế độ sạc tường : Giao diện và cáp 5v2a, Tổng đầu ra 5v2a max\n- Công suất cực đại: 10W\n- Dung lượng pin: 10000maH - 37wh, 9200mah( mặc định) 34.04wh\n- Cơ chế bảo vệ: Bảo vệ quá tải, Quá áp, Quá dòng, Quá xả, Ngắn mạch, Quá nhiệt, Quá điện\n- Thời gian sạc: 2-4h ( bộ sạc 18w)\n- Giao thức hộ trợ : pd3.0, qc3.0, fcp, afc, apple2.4a và các giao thức khác",
+            "price": 690000,
+            "brand": "PISEN",
+            "rating": "4.7",
+            "numberReviews": 0,
+            "image": "https://elma2024.000webhostapp.com/images/products/z5191573687099_f0490e7addec06d5b4482c8133cc8e8b.jpg",
+            "images": [
+                "https://elma2024.000webhostapp.com/images/products/z5191573687098_a5233857268480f8ffc2748b63bc31d4.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191573672881_736c032aac0d95a73e9a8cff32080810.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191573659492_416b59ffa90c70b21d6b7fbaef2cc787.jpg"
+            ],
+            "quantity": 100,
+            "category": { "$oid": "65d8564cf18239ff9bcbcd37" },
+            "isBestSeller": false
+        },
+        {
+            "_id": { "$oid": "65db0b69f08a93058c07f0a2" },
+            "name": "Pin sạc dự phòng Xiaomi Mi 3 10000mAh VXN4274GL (Đen)",
+            "description": "Dung lượng: 10,000mAh\nInput: 1x MicroUSB, 1x USB Type-C\nOutput: 2x USB-A",
+            "price": 490000,
+            "brand": "XIAOMI",
+            "rating": "4.1",
+            "numberReviews": 0,
+            "image": "https://elma2024.000webhostapp.com/images/products/z5191573646941_d007d0fc6615ebd334f02a4cdef23c90.jpg",
+            "images": [
+                "https://elma2024.000webhostapp.com/images/products/z5191573639834_9ecf2daaf8fe9adba357aa0a8b090dc3.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191573635017_3d0cccef829b82b6f88290aa0fd66ba6.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191573629759_374ab905c44f378209c7c547e27e5b03.jpg"
+            ],
+            "quantity": 100,
+            "category": { "$oid": "65d8564cf18239ff9bcbcd37" },
+            "isBestSeller": false
+        }
+    ],
+
+    "printer and scanner": [
+        {
+            "_id": { "$oid": "65db0b69f08a93058c07f0a3" },
+            "name": "Máy in laser màu BROTHER MFC-L8690CDW",
+            "description": "- Chức năng: In, Scan, Copy, Fax\n- Độ phân giải: 2400 x 600 dpi\n- In 2 mặt tự động\n- Kết nối: USB 2.0, LAN, Wireless, In từ thiết bị di động",
+            "price": 15790000,
+            "brand": "BROTHER",
+            "rating": 4.9,
+            "numberReviews": 0,
+            "image": "https://elma2024.000webhostapp.com/images/products/z5191582859665_e4011fc3dc6130383be1f5f80c53e134.jpg",
+            "images": [
+                "https://elma2024.000webhostapp.com/images/products/z5191582848714_e4c10872c9abbfdf36ba7b860153eb25.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191582840806_647d7cc176783c1cfcacafe7e36a2e7e.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191582824943_ac8dd59270421e89b59e6277eea11e91.jpg"
+            ],
+            "quantity": 100,
+            "category": { "$oid": "65d85660f18239ff9bcbcd39" },
+            "isBestSeller": false
+        },
+        {
+            "_id": { "$oid": "65db0b69f08a93058c07f0a4" },
+            "name": "Máy in đa chức năng HP LaserJet M440n MFP,1Y WTY_8AF46A",
+            "description": "- Máy in đa chức năng HP LaserJet M440n MFP, được thiết kế đơn giản phù hợp với các văn phòng\n- Tích hợp các chức năng : In (print), sao chép (copy) và quét (scan) màu\n- Với tốc độ 24 trang /phút, với khổ giấy tối đa khổ A3. \n- Ngoài ra máy in đa chức năng Hp Laserjet MFP M440N còn tích hợp tính năng kết nối qua mạng Lan giúp bạn kết nối dễ dàng các thiết bị với nhau",
+            "price": 14990000,
+            "brand": "HP",
+            "rating": 4.6,
+            "numberReviews": 0,
+            "image": "https://elma2024.000webhostapp.com/images/products/z5191582811276_2edaed88d4ce26d8b6e5572abcddabf3.jpg",
+            "images": [
+                "https://elma2024.000webhostapp.com/images/products/z5191582803894_f17119cd99923c69fb4fcace4bba37bd.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191582772938_7d9bcc74bea2ba2b25a0c7bc71227273.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191582789523_e1f81c799f8a9321593e62c6f3ed7224.jpg"
+            ],
+            "quantity": 100,
+            "category": { "$oid": "65d85660f18239ff9bcbcd39" },
+            "isBestSeller": false
+        },
+        {
+            "_id": { "$oid": "65db0b69f08a93058c07f0a5" },
+            "name": "Máy in phun màu EPSON L1300",
+            "description": "- In Phun 4 màu, khổ A3+, 5.760x1.440dpi.\n- 5 bình mực lớn rời in được 12.800 trang (2 bình đen),\n- Tốc độ in: 30 trang/phút (đen), 17 trang/phút (màu).\n- Kết nối USB 2.0,  tương thích Win 7, Win 8.1, Win 10 (32, 64 bit), Mac OS X.",
+            "price": 12490000,
+            "brand": "EPSON",
+            "rating": 4.5,
+            "numberReviews": 0,
+            "image": "https://elma2024.000webhostapp.com/images/products/z5191582756233_227b7623e8ecd7b04ac758c5fdbb377e.jpg",
+            "images": [
+                "https://elma2024.000webhostapp.com/images/products/z5191582744398_dd1adf1e6477c7ab5267a54a2969ac01.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191582733796_da5bdfe4d822303dcde066cbdce018cb.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191582714590_7c229da39dde9bbb03fee47b06d90fb9.jpg"
+            ],
+            "quantity": 100,
+            "category": { "$oid": "65d85660f18239ff9bcbcd39" },
+            "isBestSeller": false
+        },
+        {
+            "_id": { "$oid": "65db0b69f08a93058c07f0a6" },
+            "name": "Máy in laser trắng đen BROTHER MFC-L2701D",
+            "description": "- Máy in laser đa chức năng (In, Copy, Scan, Fax, PC fax)\n- Tốc độ in: 30 trang/phút\n- Độ phân giải tối đa 2400x600 dpi\n- Bộ nhớ 32MB - In 2 mặt tự động\n- Khổ giấy: A4, Letter, Legal, A5\n- Kết nối USB 2.0",
+            "price": 5590000,
+            "brand": "BROTHER",
+            "rating": 4.7,
+            "numberReviews": 0,
+            "image": "https://elma2024.000webhostapp.com/images/products/z5191582697316_a0885a73aa45edde04801f9a45454f66.jpg",
+            "images": [
+                "https://elma2024.000webhostapp.com/images/products/z5191582687119_d4eef7c014eacfd3d7ea240f0a76779e.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191582666540_32302f55bc07940b6fd08470949d6bf2.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191582649286_33026bfeff3885df78448f43939d7c41.jpg"
+            ],
+            "quantity": 100,
+            "category": { "$oid": "65d85660f18239ff9bcbcd39" },
+            "isBestSeller": false
+        },
+        {
+            "_id": { "$oid": "65db0b69f08a93058c07f0a7" },
+            "name": "Máy in laser trắng đen BROTHER DCP-L2520D",
+            "description": "- Máy in Trắng đen, Loại mực : Mực in laser đen, Chức năng: In,Scan,Copy\n- Độ phân giải: 2400 x 600 dpi, Tốc độ in trắng đen: 30 trang/phút, In 2 mặt tự động\n- Độ phân giải bản sao: 600 x 600 dpi Thu nhỏ/phóng to bản sao: 25% - 400%\n- Bộ nhớ: 32 MB, Khổ giấy: A4, Letter, Legal, A5 - Định dang tập tin: JPEG, PDF, Độ phân giải scan: 2400 x 600 dpi\n- Kết nối: USB 2.0\n- Tương thích: Windows 7/ 8/ 8.1/ 10, OS X v10.7.5, OS X v10.8.x, OS X v10.9.x",
+            "price": 4490000,
+            "brand": "BROTHER",
+            "rating": 4.1,
+            "numberReviews": 0,
+            "image": "https://elma2024.000webhostapp.com/images/products/z5191582638068_81bb085359f32e9f3f2c54311b68b7c2.jpg",
+            "images": [
+                "https://elma2024.000webhostapp.com/images/products/z5191582621419_193c542043f7a360da2ad02dbbedd7b1.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191582601857_73cfd67021754289a6755f67f89a726d.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191582581098_17389dfa0abbaaa3049d046e9ba936ae.jpg"
+            ],
+            "quantity": 100,
+            "category": { "$oid": "65d85660f18239ff9bcbcd39" },
+            "isBestSeller": false
+        },
+        {
+            "_id": { "$oid": "65db0b69f08a93058c07f0a8" },
+            "name": "Máy quét/ Scanner HP 2000 S2 (6FW06A)",
+            "description": "- Máy Scan dạng nạp giấy rời\n- Tốc độ in lên đến 35 trang/phút\n- 70 ảnh/phút- Kết nối tiêu chuẩn USB 3.0",
+            "price": 7190000,
+            "brand": "HP",
+            "rating": 4.3,
+            "numberReviews": 0,
+            "image": "https://elma2024.000webhostapp.com/images/products/z5191582552640_316f382c0a716f1553c92bcae19a6dbd.jpg",
+            "images": [
+                "https://elma2024.000webhostapp.com/images/products/z5191582552639_55ed2302335630b8114032e967b266aa.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191582524205_c326dee05aa619f55b7dd05b02614006.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191582509627_f56a8ee8bfbd2853e2bb27ea449ecfbd.jpg"
+            ],
+            "quantity": 100,
+            "category": { "$oid": "65d85660f18239ff9bcbcd39" },
+            "isBestSeller": false
+        },
+        {
+            "_id": { "$oid": "65db0b69f08a93058c07f0a9" },
+            "name": "Máy quét/ Scanner Epson DS-C330",
+            "description": "- Máy quét nhỏ gọn , quét lên tới khổ A4\n- Tốc độ quét nhanh lên tới 30 trang/phút / 60 hình/phút\n- Quét linh hoạt với chế độ Quét đường dọc và đường thẳng\n- Quét các loại phương tiện khác nhau bao gồm phong bì, giấy dài và thậm chí cả hộ chiếu\n- Kích thước: 29.6 x 10.4 x 12.5 cm",
+            "price": 6390000,
+            "brand": "EPSON",
+            "rating": 4,
+            "numberReviews": 0,
+            "image": "https://elma2024.000webhostapp.com/images/products/z5191582489315_40c637943f32795f9daf4656d05ea5c3.jpg",
+            "images": [
+                "https://elma2024.000webhostapp.com/images/products/z5191582490670_84c71ee5e1f1479a71294238205e3424.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191582490673_af8aa0a8c56ea4c2197175d68358c87b.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191582489314_0c6620d65201d719b1e6475d1bd5d19b.jpg"
+            ],
+            "quantity": 100,
+            "category": { "$oid": "65d85660f18239ff9bcbcd39" },
+            "isBestSeller": false
+        },
+        {
+            "_id": { "$oid": "65db0b69f08a93058c07f0aa" },
+            "name": "Máy scan Canon Lide 300",
+            "description": "- Máy quét tài liệu và ảnh mặt kính phẳng - Độ phân giải quét: 2,400 x 2,400dpi - Tốc độ quét (A4, 300dpi): Xấp xỉ 10 giây",
+            "price": 2090000,
+            "brand": "CANON",
+            "rating": 4.3,
+            "numberReviews": 0,
+            "image": "https://elma2024.000webhostapp.com/images/products/z5191582430102_b41dc19b9328c36c54e4ce689ca63f4c.jpg",
+            "images": [
+                "https://elma2024.000webhostapp.com/images/products/z5191582430103_6f080d36286c87da9a8c3bc150e3285d.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191582430101_c43768bc82bbd4978c1ca9a55caccd60.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191582430100_71f09e345d59767659143f36b3881757.jpg"
+            ],
+            "quantity": 100,
+            "category": { "$oid": "65d85660f18239ff9bcbcd39" },
+            "isBestSeller": false
+        },
+        {
+            "_id": { "$oid": "65db0b69f08a93058c07f0ab" },
+            "name": "Máy quét/ Scanner HP ScanJet Pro 3600 F1 Scanner (20G06A)",
+            "description": "- Thiết kế nhỏ gọn, tác vụ quét chuyên nghiệp\n- Loại máy quét: ADF, công nghệ quét CIS, giường phẳng\n- Quét tối đa 30 trang hoặc 60 hình ảnh mỗi phút. Hình thành ADF\n- Quét nhiều loại tài liệu bao gồm sách, tạp chí và thẻ ID\n- Khả năng nạp tài liệu tự động: Tiêu chuẩn, 60 tờ",
+            "price": 13690000,
+            "brand": "HP",
+            "rating": 4.9,
+            "numberReviews": 0,
+            "image": "https://elma2024.000webhostapp.com/images/products/z5191582430071_4868f177562a3a29891465043d21b423.jpg",
+            "images": [
+                "https://elma2024.000webhostapp.com/images/products/z5191582430072_33d2d6b1c8196ae4926722c83aa2ff34.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191582430070_9b4317a22fc03937493b3f7311ef6f46.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191582430068_0662d7a8528f1ea65253a6a6d2d83fc3.jpg"
+            ],
+            "quantity": 100,
+            "category": { "$oid": "65d85660f18239ff9bcbcd39" },
+            "isBestSeller": false
+        },
+        {
+            "_id": { "$oid": "65db0b69f08a93058c07f0ac" },
+            "name": "Máy quét/ Scanner Epson DS-570WII",
+            "description": "- Quét ở tốc độ lên tới 35 trang/phút/70 hình/phút\n- Quét lên tới A4\n- Quét từ 27gsm đến 413gsm\n- Tùy chọn mặt phẳng với Flatbed Dock và Perfection V39",
+            "price": 10790000,
+            "brand": "EPSON",
+            "rating": 4.6,
+            "numberReviews": 0,
+            "image": "https://elma2024.000webhostapp.com/images/products/z5191582419583_acbda010f4f053297e7f049783cf9c1d.jpg",
+            "images": [
+                "https://elma2024.000webhostapp.com/images/products/z5191582419582_17c01424b9307305b4fb4ae8365d15ea.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191582419581_db8146b187efbbc36516d573c78f967e.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191582406953_b75c438fb8f4ec73b637992de29bec07.jpg"
+            ],
+            "quantity": 100,
+            "category": { "$oid": "65d85660f18239ff9bcbcd39" },
+            "isBestSeller": false
+        }
+    ],
+
+    "speaker": [
+        {
+            "_id": { "$oid": "65db0b69f08a93058c07f0ad" },
+            "name": "Loa Bluetooth JBL Partybox 710",
+            "description": "- Thiết kế mới cực đẹp với đèn led và đèn chớp cực ấn tượng cho những bữa tiệc sôi động\n- Có bánh xe và tay cầm chắc chắn.\n- Âm thanh JBL Original Pro mạnh mẽ với công suất 800W với thiết kế âm thanh mới cho âm trầm sâu hơn.\n- Chống nước IPX4 giúp bạn tổ chức những bữa tiệc ngoài trời\n- Tích hợp đầu vào guitar và mic cho bạn thiết lập buổi biểu diễn nhanh chóng\n- Bluetooth 5.1 mới nhất\n- Cổng USB có thể sạc các thiết bị thông minh hoặc phát nhạc từ các USB chuyên dụng",
+            "price": 18990000,
+            "brand": "JBL",
+            "rating": 4.7,
+            "numberReviews": 0,
+            "image": "https://elma2024.000webhostapp.com/images/products/z5191597944836_41e564851101429abdc5b12fb6b71845.jpg",
+            "images": [
+                "https://elma2024.000webhostapp.com/images/products/z5191597944835_4750f5d48970a2441db6e5139c7f6035.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191597932775_864539f9f2ee42fdb34a4d4c85bce3e0.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191597913793_5f748b2ebc969b98ac3ad999fc956560.jpg"
+            ],
+            "quantity": 100,
+            "category": { "$oid": "65d8566ef18239ff9bcbcd3b" },
+            "isBestSeller": false
+        },
+        {
+            "_id": { "$oid": "65db0b69f08a93058c07f0ae" },
+            "name": "Bộ loa thanh Samsung HW-Q930C/XV 540W",
+            "description": "- Kiểu dáng thanh lịch, hiện đại, sử dụng như vật dụng trang trí trong phòng.\n- Tái tạo âm thanh mạnh mẽ, sống động với tổng công suất 540W, 9.1.4 kênh.\n- Công nghệ Dolby Atmos/DTS:X mang đến âm thanh vòm tràn khắp phòng.\n- Công nghệ Q-Symphony 3.0 đồng bộ loa thanh và loa tivi cho âm thanh tuyệt vời.\n- Khuếch đại âm lượng hội thoại, nghe rõ giọng nói với công nghệ AVA (Active Voice Amplifier).",
+            "price": 14490000,
+            "brand": "SAMSUNG",
+            "rating": 4.7,
+            "numberReviews": 0,
+            "image": "https://elma2024.000webhostapp.com/images/products/z5191597875567_43becee7edcf3de0959ba46d34a4bdab.jpg",
+            "images": [
+                "https://elma2024.000webhostapp.com/images/products/z5191597867143_401692e17ee5a53137b1481a2feefd7a.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191597835877_a93fd4a24e8bec63f96181925ad4b92b.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191597771618_c3252a0633efdc1c637a26d1decd2858.jpg"
+            ],
+            "quantity": 100,
+            "category": { "$oid": "65d8566ef18239ff9bcbcd3b" },
+            "isBestSeller": false
+        },
+        {
+            "_id": { "$oid": "65db0b69f08a93058c07f0af" },
+            "name": "Loa Bluetooth JBL Party Box On the Go",
+            "description": "- Thiết kế dạng ấn tượng với  dây đeo vai thuận tiện để giữ cho bữa tiệc di chuyển\n- Kèm 2 tay mic JBL chất lượng để hát karaoke tuyệt vời\n- Âm thanh độc quyền của hãng JBL Pro chính xác và chi tiết với bass sâu\n- Công suất 100W\n- Hệ thống mixer trực tiếp cho phép bạn chỉnh âm dễ dàng.\n- Chống nước đạt chuẩn IPX4\n- Pin lên tới 6 giờ",
+            "price": 8500000,
+            "brand": "JBL",
+            "rating": 4.9,
+            "numberReviews": 0,
+            "image": "https://elma2024.000webhostapp.com/images/products/z5191597733761_66e2dd408d9d883a3bd6017d63bf89c1.jpg",
+            "images": [
+                "https://elma2024.000webhostapp.com/images/products/z5191597703164_7e098e953fbe836cb1c767b13f9b93a1.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191597695441_e7541a5d7f51f565d16b6cc382e0b5cb.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191597685091_9077338544667a3c231383be8a8b6640.jpg"
+            ],
+            "quantity": 100,
+            "category": { "$oid": "65d8566ef18239ff9bcbcd3b" },
+            "isBestSeller": false
+        },
+        {
+            "_id": { "$oid": "65db0b69f08a93058c07f0b0" },
+            "name": "Loa Bose Soundlink Mini II SE - Đen (835799-0100)",
+            "description": "- Công nghệ hiện đại tái hiện âm thanh chi tiết, sâu trầm\n- Loa thế hệ mới với tốc độ kết nối Bluetooth nhanh\n- Trang bị Microphone giúp bạn trả lời hoặc gọi đi dễ dàng\n- Phạm vi kết nối không dây 9m, âm thanh được lan tỏa hiệu quả\n- Thiết kế kèm theo USB-C hỗ trợ sạc đầy pin loa nhanh chóng\n- Kích thước nhỏ gọn, thuận tiện di chuyển trong các chuyến đi\n- Kiểu dáng hiện đại đi cùng gam màu bạc sang trọng, cá tính",
+            "price": 4490000,
+            "brand": "BOSE",
+            "rating": 4.3,
+            "numberReviews": 0,
+            "image": "https://elma2024.000webhostapp.com/images/products/z5191597656051_3b53e3fff1ea83cd0b4dde1b639375bf.jpg",
+            "images": [
+                "https://elma2024.000webhostapp.com/images/products/z5191597656050_1d4c981edadc93a9d81212a044ca8a05.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191597626379_613e6803a6fffb2bf43dce3fdd435914.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191597601007_9cce25d9a87776637f5763f1671ec3dc.jpg"
+            ],
+            "quantity": 100,
+            "category": { "$oid": "65d8566ef18239ff9bcbcd3b" },
+            "isBestSeller": false
+        },
+        {
+            "_id": { "$oid": "65db0b69f08a93058c07f0b1" },
+            "name": "Loa Tháp Samsung MX-T70",
+            "description": "- Tính Năng Bass Booster\n- Hiệu ứng đèn LED DJ\n- Ứng dụng Sound Tower sẽ giúp kiểm soát  hiệu ứng ánh sáng và âm thanh\n- Kháng Nước Tối Ưu\n- Tính năng Group Play kết nối nhiều loa tháp Samsung với nhau\n- Chế Độ Karaoke",
+            "price": 4390000,
+            "brand": "SAMSUNG",
+            "rating": 4.5,
+            "numberReviews": 0,
+            "image": "https://elma2024.000webhostapp.com/images/products/z5191597607604_b7cd4abb84a32842bb96f0f052297860.jpg",
+            "images": [
+                "https://elma2024.000webhostapp.com/images/products/z5191597626378_988cc4767bfce16ae4ea83923bdea168.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191597587505_ed4bc9eab97ab58e9f1e9ba5ff31ef7a.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191597575629_13f5810a0b2b680827eff29e592bf7f6.jpg"
+            ],
+            "quantity": 100,
+            "category": { "$oid": "65d8566ef18239ff9bcbcd3b" },
+            "isBestSeller": false
+        },
+        {
+            "_id": { "$oid": "65db0b69f08a93058c07f0b2" },
+            "name": "Loa Bluetooth JBL PARTYBOX ENCORE (Kèm Micro) BENCORE2MICAS (Đen)",
+            "description": "- Thiết kế nhỏ gọn, sống động với dải led màu sắc\n- Công suất lên tới 100W với dải tần số đáp ứng lên tới 45Hz - 20KHz (-6dB)\n- Kết nối không dây 2 loa cùng loại qua công nghệ True Wireless Stereo\n- Kháng nước IPX4 chẳng ngại mưa phùn cho những buổi tiệc ngoài trời thêm vui",
+            "price": 9590000,
+            "brand": "JBL",
+            "rating": 4.7,
+            "numberReviews": 0,
+            "image": "https://elma2024.000webhostapp.com/images/products/z5191597562248_ebd9e649a412d82653a990502cd02c95.jpg",
+            "images": [
+                "https://elma2024.000webhostapp.com/images/products/z5191597550170_158ace5586f108a90b139665f1ae4979.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191597540679_a9c75307fe9f8eee30c31944786470ab.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191597531005_a0d088a354718dfa94eac49f36ed0895.jpg"
+            ],
+            "quantity": 100,
+            "category": { "$oid": "65d8566ef18239ff9bcbcd3b" },
+            "isBestSeller": false
+        },
+        {
+            "_id": { "$oid": "65db0b69f08a93058c07f0b3" },
+            "name": "Loa Bluetooth Sony SRS-XE300/BC E (Đen)",
+            "description": "- Âm thanh rộng hơn với Bộ khuếch tán hình dạng đường thẳng\n- Bộ loa X-Balanced cho âm thanh mạnh mẽ và rõ ràng \n- Chống nước và chống bụi IP67 \n- Thời lượng pin lên đến 24 giờ và sạc nhanh \n- Kích thước di động bạn có thể mang đi mọi nơi",
+            "price": 4100000,
+            "brand": "SONY",
+            "rating": 4.7,
+            "numberReviews": 0,
+            "image": "https://elma2024.000webhostapp.com/images/products/z5191597519848_4bc2c03bf45335757d8ab3a7882e3c7c.jpg",
+            "images": [
+                "https://elma2024.000webhostapp.com/images/products/z5191597502283_2f80cc8d3c27d4ea2cc1e86a2e7802e5.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191597502282_f907fc3c7388854d7cb84b02214fb71e.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191597483373_7eabe314b7c62483e6542bd66a6b01a7.jpg"
+            ],
+            "quantity": 100,
+            "category": { "$oid": "65d8566ef18239ff9bcbcd3b" },
+            "isBestSeller": false
+        },
+        {
+            "_id": { "$oid": "65db0b69f08a93058c07f0b4" },
+            "name": "Loa Karaoke Di Động Nova Audio NV-300 Platinum",
+            "description": "- Loa Karaoke Di Động Nova Audio NV-300 Platinum được thiết kế nhỏ gọn và nhẹ\n- Với trọng lượng 9.5kg  phù hợp với nhu cầu di chuyển của người sử dụng. \n- Loa được thước kế bằng gỗ sơn đen MDF chắc chắn chống va đập tốt, phối hợp với bo mạch màu đồng toát lên vẽ sang trọng và đẹp. \n- Công suất tổng : RMS 50W, PMPO 300W. \n- Đi kèm với loa là bộ 2 micro không dây UHF có thể điều chỉnh được tầng số",
+            "price": 3990000,
+            "brand": "NOVA",
+            "rating": 4.2,
+            "numberReviews": 0,
+            "image": "https://elma2024.000webhostapp.com/images/products/z5191597483372_16c455bbcb9d5a7808b13f8e71408719.jpg",
+            "images": [
+                "https://elma2024.000webhostapp.com/images/products/z5191597463392_14ba704dda5530e6638a6a628be721f9.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191597456358_97f9a67d365b67afca74d1864c70d5d6.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191597444675_6e4b3e2a970521901b7bd1c94222b195.jpg"
+            ],
+            "quantity": 100,
+            "category": { "$oid": "65d8566ef18239ff9bcbcd3b" },
+            "isBestSeller": false
+        },
+        {
+            "_id": { "$oid": "65db0b69f08a93058c07f0b5" },
+            "name": "Loa bluetooth JBL Charge 4 (Đen)",
+            "description": "- Kiểu kết nối: Không dây\n- Dung lượng pin: 7500 mAh\n- Chống nước: IPX7\n- Công suất tổng: 30W",
+            "price": 3490000,
+            "brand": "JBL",
+            "rating": 4.3,
+            "numberReviews": 0,
+            "image": "https://elma2024.000webhostapp.com/images/products/z5191597419101_9c84ff5ad1c53f4d42670ca0802359aa.jpg",
+            "images": [
+                "https://elma2024.000webhostapp.com/images/products/z5191597419099_055647c721c1e25aef4e0196e983c2d4.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191597419098_fb7fe78032f381ea3b53cdc8ab6d9670.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191597379729_9d40e54d2b4fa98c6877f34a70d31866.jpg"
+            ],
+            "quantity": 100,
+            "category": { "$oid": "65d8566ef18239ff9bcbcd3b" },
+            "isBestSeller": false
+        },
+        {
+            "_id": { "$oid": "65db0b69f08a93058c07f0b6" },
+            "name": "Loa Bluetooth Edifier QD35 (Đen)",
+            "description": "- Kiểu dáng đẹp mắt, độc đáo khi được trang bị màn hình LED hiển thị thời gian tiện lợi\n- Bộ khuếch đại kỹ thuật số mạnh mẽ kết hợp cùng chipset DSP cho chất âm mạnh mẽ\n- Cá nhân hoá chế độ nghe nhờ tính năng tự điều chỉnh EQ thông qua Edifier Connect\n- Công suất sạc lên đến 35 W nhờ vào công nghệ sạc hiệu suất cao đến từ TurboGaN",
+            "price": 2990000,
+            "brand": "EDIFIER",
+            "rating": 4.6,
+            "numberReviews": 0,
+            "image": "https://elma2024.000webhostapp.com/images/products/z5191597388075_825f47ce0a395da7cbbb4d58b5236415.jpg",
+            "images": [
+                "https://elma2024.000webhostapp.com/images/products/z5191597357705_d918faecbf985621fa313dcf08698671.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191597348220_2299240948961b29af87a700099d60f0.jpg",
+                "https://elma2024.000webhostapp.com/images/products/z5191597336264_189e17a035797919ed6426cd8e0c6acc.jpg"
+            ],
+            "quantity": 100,
+            "category": { "$oid": "65d8566ef18239ff9bcbcd3b" },
+            "isBestSeller": false
+        }
+    ]
+}

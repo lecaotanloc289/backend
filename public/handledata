@@ -1,0 +1,6 @@
+var jsonData =
+    '- Màn hình: OLED Super Retina XDR\n- Camera sau: 48MP, 12MP\n- Camera trước: 12MP\n- CPU: Apple A17 Bionic\n- Bộ nhớ: 256GB\n- Hệ điều hành: iOS'
+
+// Tạo mảng từ chuỗi dữ liệu
+var dataArray = jsonData.split('\n').filter(Boolean) // Lọc bỏ các dòng trống
+

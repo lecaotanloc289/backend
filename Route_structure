@@ -1,0 +1,15 @@
+- API route
+- Schema
+
+- Config project system
+    + Models
+    + Routers
+        - products
+            - get
+            - post
+            - put
+            - delete
+
+- Exports const | class => exports.[obj]
+
+
